@@ -1,0 +1,1001 @@
+Name,Scientific name,Classification,Habitat,Diet,Lifespan,Description
+Cheetah,Acinonyx jubatus,Amphibian,Ocean,Omnivore,73,A large wild animal.
+Panda,Aquila chrysaetos,Fish,Mountain,Herbivore,86,A gentle herbivore.
+Kangaroo,Panthera leo,Mammal,Forest,Omnivore,80,A large wild animal.
+Kangaroo,Aquila chrysaetos,Mammal,Mountain,Carnivore,71,A unique species.
+Giraffe,Aptenodytes forsteri,Fish,Mountain,Omnivore,83,A large wild animal.
+Elephant,Panthera tigris,Mammal,Ocean,Omnivore,23,A large wild animal.
+Lion,Panthera tigris,Bird,Ocean,Herbivore,12,A large wild animal.
+Crocodile,Panthera leo,Bird,Jungle,Herbivore,80,A unique species.
+Eagle,Panthera leo,Reptile,Jungle,Carnivore,88,An agile hunter.
+Elephant,Macropus,Bird,Mountain,Carnivore,61,A gentle herbivore.
+Eagle,Ailuropoda melanoleuca,Mammal,Wetlands,Omnivore,76,A large wild animal.
+Tiger,Giraffa camelopardalis,Reptile,Wetlands,Omnivore,10,A fierce predator.
+Giraffe,Panthera tigris,Fish,Mountain,Carnivore,68,A fierce predator.
+Crocodile,Ailuropoda melanoleuca,Reptile,Forest,Herbivore,31,A gentle herbivore.
+Crocodile,Acinonyx jubatus,Amphibian,Savannah,Carnivore,67,An agile hunter.
+Penguin,Panthera tigris,Amphibian,Desert,Carnivore,34,A gentle herbivore.
+Giraffe,Crocodylus niloticus,Reptile,Savannah,Carnivore,93,A unique species.
+Crocodile,Aquila chrysaetos,Mammal,Forest,Omnivore,66,A gentle herbivore.
+Penguin,Giraffa camelopardalis,Bird,Savannah,Omnivore,11,A unique species.
+Penguin,Aquila chrysaetos,Amphibian,Wetlands,Omnivore,35,A large wild animal.
+Kangaroo,Panthera leo,Amphibian,Forest,Herbivore,10,A gentle herbivore.
+Cheetah,Panthera leo,Fish,Ocean,Omnivore,50,A unique species.
+Tiger,Panthera leo,Mammal,Jungle,Carnivore,23,A unique species.
+Lion,Aptenodytes forsteri,Amphibian,Forest,Carnivore,31,An agile hunter.
+Elephant,Aquila chrysaetos,Mammal,Ocean,Carnivore,63,A gentle herbivore.
+Lion,Acinonyx jubatus,Reptile,Forest,Omnivore,28,A unique species.
+Crocodile,Panthera leo,Mammal,Jungle,Herbivore,73,A unique species.
+Giraffe,Acinonyx jubatus,Fish,Jungle,Carnivore,34,A fierce predator.
+Kangaroo,Crocodylus niloticus,Fish,Mountain,Herbivore,82,A fierce predator.
+Giraffe,Panthera tigris,Amphibian,Forest,Omnivore,81,A gentle herbivore.
+Giraffe,Aquila chrysaetos,Mammal,Savannah,Carnivore,1,A large wild animal.
+Elephant,Acinonyx jubatus,Mammal,Savannah,Carnivore,27,A gentle herbivore.
+Kangaroo,Loxodonta africana,Amphibian,Forest,Herbivore,23,A large wild animal.
+Tiger,Crocodylus niloticus,Reptile,Ocean,Omnivore,42,A large wild animal.
+Tiger,Macropus,Mammal,Savannah,Omnivore,95,A fierce predator.
+Kangaroo,Acinonyx jubatus,Amphibian,Forest,Carnivore,76,An agile hunter.
+Tiger,Aquila chrysaetos,Amphibian,Forest,Herbivore,26,A fierce predator.
+Kangaroo,Ailuropoda melanoleuca,Amphibian,Mountain,Carnivore,6,A large wild animal.
+Crocodile,Giraffa camelopardalis,Reptile,Mountain,Herbivore,78,A unique species.
+Elephant,Macropus,Amphibian,Wetlands,Omnivore,53,A large wild animal.
+Panda,Aptenodytes forsteri,Amphibian,Wetlands,Herbivore,74,A fierce predator.
+Eagle,Panthera tigris,Fish,Jungle,Omnivore,35,A large wild animal.
+Cheetah,Aquila chrysaetos,Bird,Desert,Herbivore,19,A fierce predator.
+Tiger,Giraffa camelopardalis,Fish,Savannah,Carnivore,72,An agile hunter.
+Tiger,Macropus,Bird,Ocean,Omnivore,58,A fierce predator.
+Tiger,Acinonyx jubatus,Amphibian,Wetlands,Carnivore,62,A unique species.
+Kangaroo,Crocodylus niloticus,Mammal,Mountain,Herbivore,88,A large wild animal.
+Tiger,Panthera tigris,Bird,Wetlands,Omnivore,7,An agile hunter.
+Cheetah,Giraffa camelopardalis,Fish,Forest,Omnivore,63,A large wild animal.
+Cheetah,Macropus,Fish,Wetlands,Herbivore,11,A unique species.
+Eagle,Aquila chrysaetos,Reptile,Jungle,Herbivore,42,A gentle herbivore.
+Eagle,Panthera tigris,Fish,Forest,Herbivore,14,A unique species.
+Lion,Panthera leo,Bird,Ocean,Carnivore,36,A unique species.
+Eagle,Giraffa camelopardalis,Reptile,Forest,Herbivore,83,A large wild animal.
+Tiger,Loxodonta africana,Reptile,Forest,Omnivore,8,A unique species.
+Giraffe,Panthera tigris,Fish,Mountain,Omnivore,61,A fierce predator.
+Panda,Ailuropoda melanoleuca,Fish,Savannah,Carnivore,24,A fierce predator.
+Crocodile,Aptenodytes forsteri,Fish,Wetlands,Herbivore,84,A large wild animal.
+Giraffe,Aptenodytes forsteri,Amphibian,Ocean,Omnivore,15,A large wild animal.
+Giraffe,Aptenodytes forsteri,Fish,Jungle,Omnivore,32,A unique species.
+Kangaroo,Acinonyx jubatus,Mammal,Ocean,Omnivore,49,A unique species.
+Eagle,Aquila chrysaetos,Mammal,Mountain,Omnivore,94,A large wild animal.
+Cheetah,Aptenodytes forsteri,Reptile,Forest,Carnivore,16,A gentle herbivore.
+Lion,Giraffa camelopardalis,Reptile,Savannah,Herbivore,12,A gentle herbivore.
+Panda,Macropus,Bird,Desert,Carnivore,70,An agile hunter.
+Elephant,Aptenodytes forsteri,Fish,Wetlands,Omnivore,1,An agile hunter.
+Elephant,Macropus,Bird,Savannah,Carnivore,7,An agile hunter.
+Tiger,Panthera leo,Reptile,Wetlands,Herbivore,65,A large wild animal.
+Lion,Acinonyx jubatus,Reptile,Wetlands,Herbivore,70,A gentle herbivore.
+Panda,Aquila chrysaetos,Bird,Forest,Omnivore,45,A gentle herbivore.
+Tiger,Panthera tigris,Mammal,Wetlands,Omnivore,24,A gentle herbivore.
+Penguin,Macropus,Bird,Mountain,Omnivore,38,A large wild animal.
+Eagle,Panthera tigris,Amphibian,Ocean,Omnivore,95,A fierce predator.
+Lion,Macropus,Bird,Mountain,Carnivore,92,A fierce predator.
+Kangaroo,Giraffa camelopardalis,Fish,Jungle,Herbivore,19,A fierce predator.
+Giraffe,Acinonyx jubatus,Mammal,Forest,Carnivore,14,An agile hunter.
+Crocodile,Macropus,Bird,Mountain,Carnivore,11,A unique species.
+Kangaroo,Crocodylus niloticus,Mammal,Wetlands,Omnivore,7,A unique species.
+Cheetah,Aptenodytes forsteri,Reptile,Mountain,Herbivore,21,A gentle herbivore.
+Lion,Panthera tigris,Fish,Ocean,Carnivore,25,An agile hunter.
+Crocodile,Macropus,Amphibian,Savannah,Herbivore,58,A gentle herbivore.
+Eagle,Ailuropoda melanoleuca,Bird,Ocean,Omnivore,96,A gentle herbivore.
+Elephant,Panthera leo,Bird,Forest,Carnivore,4,An agile hunter.
+Kangaroo,Aquila chrysaetos,Reptile,Wetlands,Herbivore,24,An agile hunter.
+Tiger,Loxodonta africana,Reptile,Wetlands,Herbivore,88,A fierce predator.
+Elephant,Acinonyx jubatus,Reptile,Desert,Herbivore,79,A unique species.
+Cheetah,Crocodylus niloticus,Fish,Wetlands,Omnivore,100,An agile hunter.
+Penguin,Giraffa camelopardalis,Mammal,Wetlands,Carnivore,56,A fierce predator.
+Crocodile,Ailuropoda melanoleuca,Reptile,Savannah,Herbivore,95,A gentle herbivore.
+Penguin,Giraffa camelopardalis,Amphibian,Jungle,Carnivore,1,A fierce predator.
+Kangaroo,Acinonyx jubatus,Bird,Desert,Omnivore,38,A fierce predator.
+Tiger,Macropus,Reptile,Mountain,Omnivore,72,A fierce predator.
+Kangaroo,Aptenodytes forsteri,Reptile,Forest,Herbivore,90,A gentle herbivore.
+Panda,Ailuropoda melanoleuca,Bird,Mountain,Omnivore,13,A gentle herbivore.
+Tiger,Giraffa camelopardalis,Mammal,Ocean,Carnivore,62,An agile hunter.
+Lion,Macropus,Mammal,Wetlands,Carnivore,66,A large wild animal.
+Penguin,Panthera leo,Reptile,Jungle,Herbivore,62,A fierce predator.
+Tiger,Panthera tigris,Mammal,Jungle,Omnivore,47,An agile hunter.
+Lion,Panthera leo,Amphibian,Forest,Carnivore,86,A gentle herbivore.
+Kangaroo,Aquila chrysaetos,Reptile,Mountain,Herbivore,34,A fierce predator.
+Cheetah,Ailuropoda melanoleuca,Reptile,Wetlands,Omnivore,16,A unique species.
+Giraffe,Giraffa camelopardalis,Reptile,Desert,Herbivore,36,A fierce predator.
+Penguin,Aptenodytes forsteri,Mammal,Wetlands,Herbivore,52,An agile hunter.
+Cheetah,Aptenodytes forsteri,Bird,Desert,Herbivore,94,A gentle herbivore.
+Tiger,Giraffa camelopardalis,Mammal,Mountain,Omnivore,4,A large wild animal.
+Giraffe,Ailuropoda melanoleuca,Mammal,Forest,Herbivore,90,An agile hunter.
+Lion,Panthera leo,Mammal,Mountain,Herbivore,39,A unique species.
+Eagle,Macropus,Reptile,Forest,Herbivore,59,A fierce predator.
+Tiger,Acinonyx jubatus,Mammal,Wetlands,Carnivore,88,A gentle herbivore.
+Tiger,Macropus,Fish,Mountain,Herbivore,17,A large wild animal.
+Tiger,Giraffa camelopardalis,Fish,Savannah,Carnivore,51,An agile hunter.
+Panda,Aptenodytes forsteri,Mammal,Wetlands,Omnivore,28,A fierce predator.
+Eagle,Aquila chrysaetos,Bird,Mountain,Omnivore,1,A unique species.
+Penguin,Aptenodytes forsteri,Reptile,Jungle,Herbivore,20,A gentle herbivore.
+Eagle,Giraffa camelopardalis,Amphibian,Mountain,Carnivore,52,An agile hunter.
+Penguin,Acinonyx jubatus,Reptile,Savannah,Carnivore,89,A gentle herbivore.
+Crocodile,Crocodylus niloticus,Amphibian,Savannah,Omnivore,67,A gentle herbivore.
+Lion,Crocodylus niloticus,Mammal,Mountain,Herbivore,8,A unique species.
+Elephant,Ailuropoda melanoleuca,Mammal,Wetlands,Omnivore,67,A fierce predator.
+Giraffe,Acinonyx jubatus,Fish,Wetlands,Carnivore,10,A gentle herbivore.
+Eagle,Macropus,Fish,Forest,Omnivore,77,A unique species.
+Panda,Aquila chrysaetos,Fish,Ocean,Carnivore,88,A fierce predator.
+Giraffe,Loxodonta africana,Fish,Savannah,Herbivore,41,A unique species.
+Elephant,Panthera leo,Amphibian,Forest,Carnivore,65,An agile hunter.
+Cheetah,Loxodonta africana,Bird,Mountain,Omnivore,78,An agile hunter.
+Penguin,Panthera tigris,Bird,Jungle,Herbivore,34,A fierce predator.
+Eagle,Panthera tigris,Reptile,Savannah,Omnivore,68,A unique species.
+Eagle,Crocodylus niloticus,Reptile,Mountain,Omnivore,3,An agile hunter.
+Tiger,Ailuropoda melanoleuca,Reptile,Ocean,Omnivore,62,A large wild animal.
+Eagle,Crocodylus niloticus,Reptile,Forest,Omnivore,2,A fierce predator.
+Lion,Giraffa camelopardalis,Mammal,Desert,Herbivore,56,A unique species.
+Tiger,Panthera tigris,Bird,Savannah,Omnivore,78,A unique species.
+Eagle,Panthera leo,Reptile,Ocean,Carnivore,15,An agile hunter.
+Eagle,Loxodonta africana,Bird,Savannah,Herbivore,68,A large wild animal.
+Penguin,Aquila chrysaetos,Amphibian,Savannah,Omnivore,94,A large wild animal.
+Eagle,Acinonyx jubatus,Reptile,Savannah,Omnivore,99,A gentle herbivore.
+Cheetah,Loxodonta africana,Amphibian,Forest,Carnivore,51,A unique species.
+Lion,Macropus,Fish,Forest,Omnivore,69,A fierce predator.
+Giraffe,Aptenodytes forsteri,Amphibian,Forest,Herbivore,32,A fierce predator.
+Giraffe,Giraffa camelopardalis,Reptile,Forest,Herbivore,99,A gentle herbivore.
+Lion,Aquila chrysaetos,Bird,Mountain,Carnivore,84,A large wild animal.
+Giraffe,Macropus,Fish,Forest,Carnivore,59,A gentle herbivore.
+Lion,Giraffa camelopardalis,Bird,Savannah,Carnivore,45,A large wild animal.
+Crocodile,Aquila chrysaetos,Mammal,Mountain,Herbivore,85,A gentle herbivore.
+Crocodile,Ailuropoda melanoleuca,Fish,Forest,Omnivore,58,A unique species.
+Cheetah,Loxodonta africana,Bird,Ocean,Carnivore,51,A unique species.
+Tiger,Giraffa camelopardalis,Reptile,Ocean,Carnivore,28,A fierce predator.
+Cheetah,Panthera leo,Reptile,Forest,Herbivore,40,A large wild animal.
+Crocodile,Crocodylus niloticus,Bird,Ocean,Carnivore,16,A gentle herbivore.
+Penguin,Aquila chrysaetos,Reptile,Ocean,Omnivore,95,A unique species.
+Eagle,Macropus,Fish,Ocean,Omnivore,86,A gentle herbivore.
+Penguin,Loxodonta africana,Reptile,Ocean,Carnivore,27,A large wild animal.
+Penguin,Ailuropoda melanoleuca,Mammal,Forest,Herbivore,30,A gentle herbivore.
+Lion,Giraffa camelopardalis,Mammal,Mountain,Herbivore,33,An agile hunter.
+Penguin,Macropus,Mammal,Ocean,Herbivore,15,A unique species.
+Eagle,Aquila chrysaetos,Mammal,Mountain,Herbivore,41,A gentle herbivore.
+Penguin,Aptenodytes forsteri,Reptile,Mountain,Herbivore,62,A gentle herbivore.
+Lion,Aquila chrysaetos,Fish,Jungle,Omnivore,62,A gentle herbivore.
+Giraffe,Panthera tigris,Bird,Savannah,Omnivore,92,A unique species.
+Giraffe,Crocodylus niloticus,Bird,Savannah,Omnivore,83,A fierce predator.
+Eagle,Acinonyx jubatus,Fish,Jungle,Herbivore,91,A gentle herbivore.
+Lion,Acinonyx jubatus,Amphibian,Desert,Herbivore,36,A fierce predator.
+Tiger,Panthera tigris,Bird,Desert,Carnivore,69,A unique species.
+Giraffe,Ailuropoda melanoleuca,Amphibian,Jungle,Herbivore,68,A large wild animal.
+Eagle,Panthera leo,Bird,Ocean,Omnivore,29,A fierce predator.
+Cheetah,Panthera leo,Amphibian,Desert,Omnivore,90,A unique species.
+Tiger,Macropus,Bird,Forest,Carnivore,90,A unique species.
+Tiger,Giraffa camelopardalis,Mammal,Ocean,Herbivore,46,An agile hunter.
+Lion,Aquila chrysaetos,Mammal,Forest,Omnivore,86,An agile hunter.
+Tiger,Aptenodytes forsteri,Fish,Jungle,Herbivore,97,An agile hunter.
+Giraffe,Macropus,Mammal,Savannah,Herbivore,65,A gentle herbivore.
+Eagle,Giraffa camelopardalis,Reptile,Forest,Omnivore,54,An agile hunter.
+Panda,Crocodylus niloticus,Mammal,Savannah,Herbivore,12,A gentle herbivore.
+Tiger,Panthera leo,Bird,Desert,Omnivore,33,A large wild animal.
+Panda,Ailuropoda melanoleuca,Reptile,Mountain,Herbivore,55,An agile hunter.
+Cheetah,Aquila chrysaetos,Fish,Savannah,Herbivore,19,A fierce predator.
+Cheetah,Crocodylus niloticus,Reptile,Savannah,Carnivore,19,An agile hunter.
+Cheetah,Loxodonta africana,Reptile,Ocean,Carnivore,95,A large wild animal.
+Eagle,Crocodylus niloticus,Reptile,Desert,Herbivore,30,A fierce predator.
+Lion,Giraffa camelopardalis,Reptile,Forest,Herbivore,77,A gentle herbivore.
+Giraffe,Ailuropoda melanoleuca,Bird,Ocean,Carnivore,10,A fierce predator.
+Penguin,Aquila chrysaetos,Mammal,Desert,Carnivore,17,A large wild animal.
+Eagle,Acinonyx jubatus,Amphibian,Ocean,Herbivore,99,A gentle herbivore.
+Penguin,Giraffa camelopardalis,Amphibian,Forest,Herbivore,48,A fierce predator.
+Panda,Macropus,Amphibian,Mountain,Carnivore,50,A large wild animal.
+Penguin,Aptenodytes forsteri,Reptile,Savannah,Carnivore,98,A fierce predator.
+Giraffe,Panthera tigris,Bird,Jungle,Herbivore,75,A large wild animal.
+Lion,Panthera tigris,Fish,Savannah,Herbivore,72,A large wild animal.
+Kangaroo,Panthera leo,Fish,Savannah,Omnivore,66,A unique species.
+Elephant,Ailuropoda melanoleuca,Amphibian,Wetlands,Herbivore,64,A unique species.
+Crocodile,Giraffa camelopardalis,Bird,Jungle,Omnivore,48,A large wild animal.
+Giraffe,Loxodonta africana,Amphibian,Desert,Omnivore,57,A gentle herbivore.
+Eagle,Aquila chrysaetos,Bird,Mountain,Carnivore,59,A fierce predator.
+Tiger,Panthera tigris,Fish,Desert,Carnivore,91,An agile hunter.
+Tiger,Aptenodytes forsteri,Mammal,Savannah,Omnivore,65,A fierce predator.
+Crocodile,Aquila chrysaetos,Bird,Mountain,Omnivore,93,A fierce predator.
+Elephant,Panthera leo,Amphibian,Jungle,Herbivore,51,A large wild animal.
+Elephant,Ailuropoda melanoleuca,Mammal,Desert,Omnivore,20,A unique species.
+Eagle,Giraffa camelopardalis,Fish,Forest,Omnivore,87,An agile hunter.
+Kangaroo,Macropus,Amphibian,Forest,Herbivore,79,A gentle herbivore.
+Crocodile,Acinonyx jubatus,Reptile,Desert,Omnivore,68,A fierce predator.
+Giraffe,Panthera leo,Reptile,Desert,Carnivore,47,A large wild animal.
+Lion,Ailuropoda melanoleuca,Reptile,Desert,Herbivore,26,A unique species.
+Crocodile,Ailuropoda melanoleuca,Fish,Ocean,Omnivore,43,A gentle herbivore.
+Eagle,Macropus,Fish,Forest,Herbivore,7,A large wild animal.
+Tiger,Giraffa camelopardalis,Fish,Mountain,Herbivore,23,A fierce predator.
+Cheetah,Loxodonta africana,Reptile,Ocean,Herbivore,27,A large wild animal.
+Giraffe,Aquila chrysaetos,Bird,Savannah,Herbivore,97,A large wild animal.
+Kangaroo,Aquila chrysaetos,Mammal,Desert,Herbivore,51,A fierce predator.
+Panda,Acinonyx jubatus,Mammal,Savannah,Carnivore,98,A fierce predator.
+Crocodile,Ailuropoda melanoleuca,Mammal,Jungle,Herbivore,13,A gentle herbivore.
+Cheetah,Panthera leo,Amphibian,Jungle,Herbivore,59,An agile hunter.
+Crocodile,Ailuropoda melanoleuca,Reptile,Jungle,Omnivore,44,An agile hunter.
+Eagle,Ailuropoda melanoleuca,Bird,Desert,Carnivore,48,A fierce predator.
+Eagle,Aquila chrysaetos,Fish,Jungle,Herbivore,25,A gentle herbivore.
+Tiger,Macropus,Mammal,Ocean,Carnivore,4,An agile hunter.
+Tiger,Giraffa camelopardalis,Fish,Mountain,Omnivore,62,A gentle herbivore.
+Penguin,Loxodonta africana,Mammal,Desert,Carnivore,49,A gentle herbivore.
+Elephant,Giraffa camelopardalis,Fish,Jungle,Herbivore,28,A fierce predator.
+Lion,Aquila chrysaetos,Bird,Wetlands,Carnivore,71,A fierce predator.
+Tiger,Macropus,Fish,Wetlands,Carnivore,54,An agile hunter.
+Cheetah,Panthera tigris,Reptile,Jungle,Carnivore,21,A fierce predator.
+Eagle,Loxodonta africana,Amphibian,Ocean,Carnivore,34,An agile hunter.
+Cheetah,Loxodonta africana,Bird,Savannah,Carnivore,89,A gentle herbivore.
+Lion,Panthera tigris,Bird,Wetlands,Herbivore,9,A large wild animal.
+Crocodile,Panthera tigris,Reptile,Forest,Herbivore,78,An agile hunter.
+Cheetah,Panthera leo,Reptile,Desert,Carnivore,53,A unique species.
+Elephant,Acinonyx jubatus,Amphibian,Ocean,Omnivore,77,An agile hunter.
+Penguin,Acinonyx jubatus,Amphibian,Savannah,Omnivore,70,An agile hunter.
+Tiger,Ailuropoda melanoleuca,Mammal,Savannah,Carnivore,71,A unique species.
+Elephant,Macropus,Fish,Jungle,Herbivore,35,A large wild animal.
+Eagle,Panthera leo,Amphibian,Mountain,Carnivore,62,A large wild animal.
+Crocodile,Macropus,Bird,Wetlands,Carnivore,93,A fierce predator.
+Lion,Giraffa camelopardalis,Amphibian,Desert,Herbivore,28,A large wild animal.
+Giraffe,Loxodonta africana,Mammal,Mountain,Omnivore,69,An agile hunter.
+Elephant,Acinonyx jubatus,Bird,Wetlands,Herbivore,72,A unique species.
+Panda,Aquila chrysaetos,Bird,Forest,Omnivore,41,A unique species.
+Lion,Acinonyx jubatus,Reptile,Forest,Herbivore,29,A gentle herbivore.
+Kangaroo,Aquila chrysaetos,Fish,Desert,Carnivore,83,An agile hunter.
+Panda,Panthera leo,Bird,Forest,Herbivore,36,A large wild animal.
+Elephant,Ailuropoda melanoleuca,Amphibian,Mountain,Omnivore,14,A fierce predator.
+Penguin,Macropus,Fish,Ocean,Omnivore,3,A unique species.
+Tiger,Giraffa camelopardalis,Bird,Desert,Carnivore,55,A gentle herbivore.
+Giraffe,Macropus,Amphibian,Savannah,Omnivore,44,A unique species.
+Cheetah,Macropus,Bird,Forest,Carnivore,21,A large wild animal.
+Eagle,Panthera leo,Bird,Wetlands,Omnivore,49,A gentle herbivore.
+Eagle,Crocodylus niloticus,Amphibian,Savannah,Carnivore,22,A large wild animal.
+Giraffe,Aptenodytes forsteri,Reptile,Mountain,Carnivore,7,A unique species.
+Elephant,Aptenodytes forsteri,Amphibian,Ocean,Carnivore,39,A gentle herbivore.
+Panda,Panthera leo,Fish,Forest,Carnivore,82,A gentle herbivore.
+Cheetah,Panthera leo,Mammal,Jungle,Carnivore,58,A gentle herbivore.
+Tiger,Ailuropoda melanoleuca,Reptile,Ocean,Omnivore,13,An agile hunter.
+Crocodile,Loxodonta africana,Fish,Ocean,Carnivore,23,A unique species.
+Cheetah,Panthera leo,Fish,Forest,Omnivore,46,A fierce predator.
+Crocodile,Crocodylus niloticus,Bird,Jungle,Herbivore,39,A gentle herbivore.
+Tiger,Panthera leo,Amphibian,Jungle,Herbivore,12,An agile hunter.
+Panda,Panthera leo,Bird,Desert,Omnivore,3,A unique species.
+Eagle,Ailuropoda melanoleuca,Bird,Jungle,Omnivore,26,A large wild animal.
+Penguin,Panthera leo,Bird,Mountain,Omnivore,46,A gentle herbivore.
+Eagle,Loxodonta africana,Fish,Ocean,Herbivore,89,A unique species.
+Panda,Ailuropoda melanoleuca,Fish,Ocean,Omnivore,75,A gentle herbivore.
+Tiger,Macropus,Amphibian,Ocean,Carnivore,48,A gentle herbivore.
+Giraffe,Acinonyx jubatus,Mammal,Savannah,Omnivore,63,A gentle herbivore.
+Panda,Aptenodytes forsteri,Amphibian,Wetlands,Omnivore,76,A gentle herbivore.
+Cheetah,Macropus,Reptile,Mountain,Omnivore,58,A fierce predator.
+Panda,Aptenodytes forsteri,Reptile,Desert,Herbivore,41,A gentle herbivore.
+Lion,Loxodonta africana,Mammal,Ocean,Omnivore,84,A fierce predator.
+Lion,Aquila chrysaetos,Bird,Jungle,Herbivore,12,A fierce predator.
+Penguin,Panthera tigris,Mammal,Desert,Omnivore,97,An agile hunter.
+Crocodile,Loxodonta africana,Amphibian,Desert,Omnivore,81,An agile hunter.
+Eagle,Aquila chrysaetos,Fish,Forest,Omnivore,92,A large wild animal.
+Penguin,Macropus,Bird,Desert,Herbivore,46,A large wild animal.
+Kangaroo,Ailuropoda melanoleuca,Reptile,Savannah,Omnivore,30,An agile hunter.
+Lion,Panthera leo,Fish,Forest,Omnivore,97,A gentle herbivore.
+Lion,Panthera tigris,Fish,Ocean,Herbivore,93,A large wild animal.
+Crocodile,Loxodonta africana,Reptile,Savannah,Omnivore,73,A unique species.
+Kangaroo,Loxodonta africana,Fish,Forest,Herbivore,13,An agile hunter.
+Penguin,Acinonyx jubatus,Bird,Jungle,Herbivore,48,A fierce predator.
+Giraffe,Macropus,Fish,Forest,Omnivore,6,A large wild animal.
+Cheetah,Loxodonta africana,Fish,Wetlands,Carnivore,14,A unique species.
+Eagle,Ailuropoda melanoleuca,Fish,Desert,Herbivore,59,A unique species.
+Tiger,Acinonyx jubatus,Mammal,Wetlands,Herbivore,91,An agile hunter.
+Lion,Acinonyx jubatus,Amphibian,Desert,Carnivore,88,A fierce predator.
+Eagle,Ailuropoda melanoleuca,Bird,Mountain,Carnivore,43,A fierce predator.
+Eagle,Aquila chrysaetos,Mammal,Jungle,Carnivore,13,An agile hunter.
+Eagle,Macropus,Mammal,Ocean,Omnivore,69,A gentle herbivore.
+Elephant,Panthera tigris,Mammal,Savannah,Herbivore,84,A fierce predator.
+Giraffe,Ailuropoda melanoleuca,Amphibian,Desert,Carnivore,32,A large wild animal.
+Panda,Crocodylus niloticus,Mammal,Forest,Omnivore,5,A gentle herbivore.
+Lion,Ailuropoda melanoleuca,Reptile,Mountain,Omnivore,22,An agile hunter.
+Elephant,Crocodylus niloticus,Bird,Ocean,Carnivore,22,A gentle herbivore.
+Kangaroo,Aquila chrysaetos,Bird,Jungle,Omnivore,68,A fierce predator.
+Tiger,Macropus,Fish,Mountain,Herbivore,52,A unique species.
+Giraffe,Panthera leo,Amphibian,Forest,Omnivore,65,A unique species.
+Penguin,Panthera leo,Bird,Ocean,Carnivore,37,An agile hunter.
+Penguin,Panthera tigris,Mammal,Wetlands,Carnivore,50,A large wild animal.
+Lion,Loxodonta africana,Amphibian,Wetlands,Herbivore,88,An agile hunter.
+Elephant,Ailuropoda melanoleuca,Reptile,Mountain,Omnivore,98,A fierce predator.
+Penguin,Panthera leo,Mammal,Mountain,Omnivore,14,A large wild animal.
+Penguin,Acinonyx jubatus,Reptile,Wetlands,Omnivore,59,A unique species.
+Elephant,Aquila chrysaetos,Bird,Desert,Herbivore,77,An agile hunter.
+Giraffe,Ailuropoda melanoleuca,Fish,Savannah,Omnivore,46,An agile hunter.
+Giraffe,Aquila chrysaetos,Fish,Wetlands,Carnivore,58,A unique species.
+Penguin,Panthera leo,Reptile,Mountain,Carnivore,80,An agile hunter.
+Elephant,Aquila chrysaetos,Fish,Savannah,Carnivore,82,A unique species.
+Kangaroo,Aquila chrysaetos,Amphibian,Jungle,Carnivore,34,A gentle herbivore.
+Panda,Crocodylus niloticus,Reptile,Desert,Carnivore,52,A fierce predator.
+Cheetah,Crocodylus niloticus,Mammal,Wetlands,Omnivore,81,A unique species.
+Elephant,Ailuropoda melanoleuca,Bird,Desert,Omnivore,72,A large wild animal.
+Panda,Panthera tigris,Amphibian,Mountain,Omnivore,3,An agile hunter.
+Panda,Aquila chrysaetos,Bird,Desert,Carnivore,60,A gentle herbivore.
+Elephant,Aptenodytes forsteri,Fish,Jungle,Carnivore,33,A unique species.
+Giraffe,Panthera leo,Fish,Wetlands,Herbivore,23,A large wild animal.
+Panda,Giraffa camelopardalis,Fish,Jungle,Omnivore,65,A large wild animal.
+Kangaroo,Acinonyx jubatus,Reptile,Ocean,Omnivore,10,A fierce predator.
+Penguin,Panthera tigris,Bird,Mountain,Omnivore,32,A unique species.
+Panda,Panthera leo,Reptile,Forest,Herbivore,60,An agile hunter.
+Panda,Aquila chrysaetos,Mammal,Jungle,Omnivore,22,A unique species.
+Panda,Aquila chrysaetos,Fish,Forest,Carnivore,54,An agile hunter.
+Eagle,Acinonyx jubatus,Amphibian,Mountain,Omnivore,2,A unique species.
+Lion,Acinonyx jubatus,Fish,Ocean,Herbivore,76,A fierce predator.
+Tiger,Loxodonta africana,Fish,Mountain,Carnivore,14,A gentle herbivore.
+Crocodile,Giraffa camelopardalis,Amphibian,Forest,Herbivore,9,A gentle herbivore.
+Elephant,Loxodonta africana,Mammal,Wetlands,Carnivore,81,A unique species.
+Eagle,Acinonyx jubatus,Fish,Savannah,Carnivore,41,A fierce predator.
+Kangaroo,Crocodylus niloticus,Reptile,Desert,Herbivore,20,A unique species.
+Panda,Aquila chrysaetos,Amphibian,Savannah,Herbivore,31,A fierce predator.
+Cheetah,Macropus,Mammal,Savannah,Omnivore,79,A large wild animal.
+Lion,Macropus,Fish,Desert,Omnivore,80,A gentle herbivore.
+Crocodile,Ailuropoda melanoleuca,Reptile,Savannah,Omnivore,68,An agile hunter.
+Eagle,Loxodonta africana,Amphibian,Jungle,Carnivore,87,A gentle herbivore.
+Lion,Aptenodytes forsteri,Mammal,Forest,Herbivore,83,An agile hunter.
+Cheetah,Ailuropoda melanoleuca,Fish,Savannah,Herbivore,96,A unique species.
+Eagle,Aptenodytes forsteri,Mammal,Forest,Herbivore,19,A fierce predator.
+Lion,Aptenodytes forsteri,Mammal,Forest,Herbivore,32,An agile hunter.
+Panda,Crocodylus niloticus,Fish,Mountain,Carnivore,25,An agile hunter.
+Eagle,Giraffa camelopardalis,Amphibian,Savannah,Carnivore,55,A large wild animal.
+Eagle,Panthera leo,Bird,Savannah,Herbivore,36,A gentle herbivore.
+Kangaroo,Panthera leo,Mammal,Wetlands,Herbivore,72,An agile hunter.
+Crocodile,Aptenodytes forsteri,Mammal,Ocean,Omnivore,89,A gentle herbivore.
+Penguin,Aptenodytes forsteri,Amphibian,Desert,Omnivore,47,A unique species.
+Cheetah,Aquila chrysaetos,Amphibian,Desert,Omnivore,48,A fierce predator.
+Panda,Ailuropoda melanoleuca,Mammal,Jungle,Herbivore,74,An agile hunter.
+Penguin,Giraffa camelopardalis,Fish,Jungle,Carnivore,34,A large wild animal.
+Cheetah,Aptenodytes forsteri,Amphibian,Mountain,Omnivore,22,A gentle herbivore.
+Kangaroo,Panthera tigris,Reptile,Ocean,Carnivore,10,A unique species.
+Elephant,Ailuropoda melanoleuca,Fish,Savannah,Herbivore,28,A unique species.
+Crocodile,Acinonyx jubatus,Mammal,Wetlands,Omnivore,1,A large wild animal.
+Cheetah,Panthera leo,Reptile,Wetlands,Carnivore,22,A large wild animal.
+Cheetah,Aquila chrysaetos,Bird,Wetlands,Omnivore,49,A fierce predator.
+Lion,Macropus,Mammal,Desert,Carnivore,27,An agile hunter.
+Crocodile,Crocodylus niloticus,Reptile,Forest,Omnivore,78,A unique species.
+Kangaroo,Aquila chrysaetos,Mammal,Jungle,Omnivore,70,A gentle herbivore.
+Penguin,Crocodylus niloticus,Reptile,Forest,Omnivore,57,A large wild animal.
+Cheetah,Panthera leo,Reptile,Jungle,Carnivore,7,A fierce predator.
+Lion,Aquila chrysaetos,Reptile,Savannah,Omnivore,72,A fierce predator.
+Tiger,Giraffa camelopardalis,Bird,Forest,Omnivore,80,A fierce predator.
+Panda,Loxodonta africana,Bird,Jungle,Omnivore,96,An agile hunter.
+Eagle,Panthera leo,Amphibian,Jungle,Herbivore,100,A fierce predator.
+Penguin,Panthera tigris,Reptile,Mountain,Herbivore,59,A gentle herbivore.
+Kangaroo,Loxodonta africana,Amphibian,Mountain,Omnivore,67,An agile hunter.
+Tiger,Ailuropoda melanoleuca,Bird,Mountain,Omnivore,32,A gentle herbivore.
+Crocodile,Giraffa camelopardalis,Amphibian,Jungle,Carnivore,50,A gentle herbivore.
+Tiger,Aquila chrysaetos,Fish,Savannah,Carnivore,21,An agile hunter.
+Tiger,Aquila chrysaetos,Fish,Jungle,Omnivore,52,A large wild animal.
+Giraffe,Macropus,Amphibian,Wetlands,Carnivore,48,A fierce predator.
+Elephant,Panthera leo,Amphibian,Jungle,Omnivore,18,An agile hunter.
+Panda,Ailuropoda melanoleuca,Mammal,Mountain,Omnivore,56,A fierce predator.
+Giraffe,Panthera tigris,Fish,Desert,Carnivore,55,A gentle herbivore.
+Tiger,Panthera leo,Fish,Mountain,Omnivore,33,A gentle herbivore.
+Penguin,Loxodonta africana,Bird,Forest,Omnivore,78,A fierce predator.
+Tiger,Panthera leo,Reptile,Savannah,Carnivore,19,A fierce predator.
+Penguin,Acinonyx jubatus,Bird,Ocean,Carnivore,61,A large wild animal.
+Kangaroo,Panthera tigris,Bird,Ocean,Omnivore,70,A unique species.
+Cheetah,Giraffa camelopardalis,Fish,Savannah,Carnivore,84,A large wild animal.
+Kangaroo,Macropus,Fish,Forest,Carnivore,5,A gentle herbivore.
+Panda,Aptenodytes forsteri,Reptile,Savannah,Herbivore,96,A fierce predator.
+Eagle,Crocodylus niloticus,Fish,Ocean,Omnivore,92,A large wild animal.
+Penguin,Loxodonta africana,Reptile,Mountain,Carnivore,89,A large wild animal.
+Cheetah,Giraffa camelopardalis,Mammal,Wetlands,Herbivore,24,A unique species.
+Giraffe,Aquila chrysaetos,Amphibian,Savannah,Herbivore,88,An agile hunter.
+Elephant,Crocodylus niloticus,Bird,Ocean,Herbivore,24,A gentle herbivore.
+Lion,Loxodonta africana,Bird,Wetlands,Carnivore,42,A large wild animal.
+Tiger,Ailuropoda melanoleuca,Mammal,Savannah,Omnivore,97,A unique species.
+Eagle,Giraffa camelopardalis,Bird,Mountain,Herbivore,38,An agile hunter.
+Eagle,Panthera tigris,Bird,Wetlands,Herbivore,19,A fierce predator.
+Lion,Aquila chrysaetos,Amphibian,Wetlands,Carnivore,37,A gentle herbivore.
+Crocodile,Giraffa camelopardalis,Mammal,Savannah,Carnivore,54,A fierce predator.
+Giraffe,Aquila chrysaetos,Bird,Jungle,Herbivore,5,A unique species.
+Eagle,Giraffa camelopardalis,Amphibian,Forest,Herbivore,77,A large wild animal.
+Cheetah,Aptenodytes forsteri,Amphibian,Wetlands,Herbivore,83,A unique species.
+Tiger,Panthera leo,Mammal,Forest,Carnivore,82,An agile hunter.
+Eagle,Ailuropoda melanoleuca,Fish,Forest,Carnivore,55,A fierce predator.
+Eagle,Loxodonta africana,Amphibian,Savannah,Carnivore,40,A gentle herbivore.
+Cheetah,Panthera leo,Amphibian,Jungle,Herbivore,48,An agile hunter.
+Tiger,Ailuropoda melanoleuca,Amphibian,Jungle,Herbivore,43,An agile hunter.
+Penguin,Aquila chrysaetos,Amphibian,Mountain,Herbivore,92,An agile hunter.
+Penguin,Panthera tigris,Reptile,Mountain,Carnivore,76,A large wild animal.
+Cheetah,Acinonyx jubatus,Bird,Savannah,Herbivore,23,A gentle herbivore.
+Penguin,Giraffa camelopardalis,Reptile,Desert,Omnivore,30,A large wild animal.
+Eagle,Panthera leo,Mammal,Ocean,Omnivore,37,A unique species.
+Lion,Macropus,Fish,Forest,Omnivore,32,A fierce predator.
+Tiger,Macropus,Bird,Ocean,Omnivore,10,An agile hunter.
+Crocodile,Crocodylus niloticus,Amphibian,Jungle,Carnivore,23,An agile hunter.
+Giraffe,Crocodylus niloticus,Fish,Jungle,Carnivore,58,A unique species.
+Tiger,Aptenodytes forsteri,Amphibian,Savannah,Carnivore,44,A large wild animal.
+Tiger,Ailuropoda melanoleuca,Amphibian,Forest,Herbivore,9,A unique species.
+Eagle,Acinonyx jubatus,Fish,Ocean,Carnivore,92,A unique species.
+Crocodile,Ailuropoda melanoleuca,Mammal,Wetlands,Omnivore,14,A large wild animal.
+Tiger,Loxodonta africana,Reptile,Ocean,Carnivore,97,A unique species.
+Cheetah,Acinonyx jubatus,Reptile,Ocean,Omnivore,27,An agile hunter.
+Kangaroo,Panthera tigris,Fish,Savannah,Omnivore,54,A large wild animal.
+Eagle,Crocodylus niloticus,Amphibian,Ocean,Carnivore,51,A large wild animal.
+Panda,Giraffa camelopardalis,Fish,Mountain,Omnivore,4,A large wild animal.
+Giraffe,Ailuropoda melanoleuca,Mammal,Ocean,Herbivore,63,An agile hunter.
+Elephant,Panthera leo,Fish,Ocean,Herbivore,32,A gentle herbivore.
+Lion,Giraffa camelopardalis,Mammal,Ocean,Omnivore,52,A gentle herbivore.
+Lion,Panthera tigris,Mammal,Wetlands,Carnivore,16,A fierce predator.
+Panda,Macropus,Fish,Forest,Herbivore,37,A gentle herbivore.
+Cheetah,Panthera leo,Reptile,Mountain,Carnivore,38,An agile hunter.
+Eagle,Panthera leo,Reptile,Forest,Herbivore,61,A unique species.
+Kangaroo,Acinonyx jubatus,Reptile,Jungle,Herbivore,83,A unique species.
+Giraffe,Giraffa camelopardalis,Mammal,Desert,Herbivore,45,A unique species.
+Eagle,Panthera leo,Amphibian,Desert,Herbivore,22,An agile hunter.
+Elephant,Aptenodytes forsteri,Bird,Ocean,Carnivore,63,An agile hunter.
+Tiger,Acinonyx jubatus,Fish,Savannah,Carnivore,93,A large wild animal.
+Lion,Giraffa camelopardalis,Mammal,Jungle,Herbivore,98,A large wild animal.
+Lion,Panthera leo,Fish,Mountain,Carnivore,10,An agile hunter.
+Kangaroo,Macropus,Reptile,Ocean,Herbivore,50,A fierce predator.
+Penguin,Crocodylus niloticus,Reptile,Desert,Omnivore,72,A unique species.
+Panda,Macropus,Mammal,Desert,Carnivore,77,A unique species.
+Cheetah,Panthera leo,Fish,Mountain,Omnivore,48,A unique species.
+Eagle,Crocodylus niloticus,Mammal,Wetlands,Carnivore,84,A large wild animal.
+Eagle,Acinonyx jubatus,Amphibian,Wetlands,Herbivore,41,A unique species.
+Giraffe,Giraffa camelopardalis,Mammal,Jungle,Carnivore,16,A unique species.
+Lion,Ailuropoda melanoleuca,Reptile,Jungle,Carnivore,63,An agile hunter.
+Cheetah,Aptenodytes forsteri,Mammal,Desert,Omnivore,51,A large wild animal.
+Kangaroo,Crocodylus niloticus,Fish,Jungle,Omnivore,48,A unique species.
+Kangaroo,Ailuropoda melanoleuca,Mammal,Forest,Herbivore,83,An agile hunter.
+Crocodile,Ailuropoda melanoleuca,Reptile,Wetlands,Omnivore,21,An agile hunter.
+Eagle,Crocodylus niloticus,Mammal,Savannah,Herbivore,12,An agile hunter.
+Giraffe,Macropus,Bird,Jungle,Carnivore,94,A gentle herbivore.
+Lion,Aquila chrysaetos,Amphibian,Desert,Carnivore,52,A unique species.
+Kangaroo,Aquila chrysaetos,Fish,Forest,Herbivore,91,A gentle herbivore.
+Tiger,Aquila chrysaetos,Amphibian,Mountain,Omnivore,44,An agile hunter.
+Penguin,Giraffa camelopardalis,Mammal,Forest,Carnivore,73,A fierce predator.
+Lion,Aptenodytes forsteri,Reptile,Mountain,Herbivore,35,An agile hunter.
+Eagle,Aquila chrysaetos,Mammal,Forest,Carnivore,76,An agile hunter.
+Penguin,Loxodonta africana,Bird,Forest,Omnivore,61,A fierce predator.
+Kangaroo,Aptenodytes forsteri,Mammal,Ocean,Omnivore,74,A large wild animal.
+Kangaroo,Panthera leo,Mammal,Ocean,Herbivore,5,An agile hunter.
+Kangaroo,Giraffa camelopardalis,Amphibian,Jungle,Carnivore,69,An agile hunter.
+Panda,Panthera leo,Fish,Desert,Carnivore,76,A unique species.
+Elephant,Loxodonta africana,Reptile,Wetlands,Herbivore,6,A large wild animal.
+Cheetah,Acinonyx jubatus,Fish,Forest,Herbivore,36,A unique species.
+Eagle,Giraffa camelopardalis,Fish,Mountain,Carnivore,45,A gentle herbivore.
+Crocodile,Aptenodytes forsteri,Mammal,Ocean,Omnivore,2,A gentle herbivore.
+Penguin,Aquila chrysaetos,Bird,Ocean,Herbivore,1,A fierce predator.
+Cheetah,Loxodonta africana,Fish,Forest,Omnivore,88,An agile hunter.
+Panda,Panthera leo,Fish,Mountain,Herbivore,100,A large wild animal.
+Giraffe,Giraffa camelopardalis,Reptile,Forest,Carnivore,73,A large wild animal.
+Panda,Giraffa camelopardalis,Fish,Wetlands,Omnivore,6,An agile hunter.
+Crocodile,Panthera tigris,Amphibian,Ocean,Omnivore,33,A gentle herbivore.
+Panda,Crocodylus niloticus,Mammal,Ocean,Omnivore,72,A fierce predator.
+Tiger,Giraffa camelopardalis,Fish,Forest,Herbivore,71,A large wild animal.
+Penguin,Ailuropoda melanoleuca,Bird,Jungle,Carnivore,80,A fierce predator.
+Cheetah,Giraffa camelopardalis,Amphibian,Mountain,Carnivore,91,A large wild animal.
+Giraffe,Panthera leo,Amphibian,Ocean,Herbivore,36,A unique species.
+Crocodile,Macropus,Reptile,Desert,Carnivore,97,A fierce predator.
+Lion,Aquila chrysaetos,Fish,Forest,Omnivore,49,A unique species.
+Crocodile,Ailuropoda melanoleuca,Fish,Wetlands,Carnivore,63,An agile hunter.
+Eagle,Giraffa camelopardalis,Bird,Mountain,Carnivore,19,An agile hunter.
+Lion,Crocodylus niloticus,Mammal,Jungle,Herbivore,87,A fierce predator.
+Eagle,Loxodonta africana,Amphibian,Ocean,Herbivore,44,A fierce predator.
+Cheetah,Panthera tigris,Amphibian,Jungle,Carnivore,52,A gentle herbivore.
+Cheetah,Ailuropoda melanoleuca,Bird,Savannah,Carnivore,28,A unique species.
+Lion,Panthera tigris,Mammal,Jungle,Herbivore,45,A large wild animal.
+Tiger,Crocodylus niloticus,Mammal,Ocean,Herbivore,47,A fierce predator.
+Elephant,Crocodylus niloticus,Mammal,Jungle,Herbivore,28,A large wild animal.
+Lion,Panthera tigris,Reptile,Wetlands,Omnivore,89,A gentle herbivore.
+Tiger,Acinonyx jubatus,Fish,Ocean,Carnivore,52,An agile hunter.
+Lion,Panthera leo,Reptile,Wetlands,Carnivore,17,A fierce predator.
+Giraffe,Aptenodytes forsteri,Mammal,Mountain,Herbivore,97,A gentle herbivore.
+Lion,Panthera leo,Amphibian,Mountain,Herbivore,91,An agile hunter.
+Eagle,Ailuropoda melanoleuca,Fish,Savannah,Herbivore,10,An agile hunter.
+Cheetah,Panthera leo,Mammal,Wetlands,Carnivore,97,An agile hunter.
+Lion,Panthera tigris,Reptile,Mountain,Carnivore,17,A unique species.
+Elephant,Aquila chrysaetos,Amphibian,Ocean,Herbivore,66,A unique species.
+Crocodile,Aquila chrysaetos,Mammal,Forest,Herbivore,53,A gentle herbivore.
+Elephant,Panthera tigris,Amphibian,Mountain,Herbivore,80,A gentle herbivore.
+Crocodile,Acinonyx jubatus,Reptile,Mountain,Omnivore,65,A fierce predator.
+Eagle,Acinonyx jubatus,Bird,Ocean,Herbivore,29,A fierce predator.
+Giraffe,Macropus,Reptile,Savannah,Herbivore,89,A fierce predator.
+Eagle,Giraffa camelopardalis,Amphibian,Ocean,Omnivore,27,A large wild animal.
+Eagle,Ailuropoda melanoleuca,Bird,Savannah,Herbivore,48,An agile hunter.
+Penguin,Macropus,Fish,Mountain,Omnivore,49,A fierce predator.
+Kangaroo,Aquila chrysaetos,Amphibian,Ocean,Herbivore,33,A gentle herbivore.
+Tiger,Macropus,Reptile,Forest,Omnivore,21,A large wild animal.
+Panda,Loxodonta africana,Bird,Wetlands,Omnivore,31,A large wild animal.
+Eagle,Giraffa camelopardalis,Amphibian,Jungle,Omnivore,49,A gentle herbivore.
+Kangaroo,Panthera tigris,Reptile,Ocean,Carnivore,77,A fierce predator.
+Giraffe,Panthera leo,Reptile,Forest,Herbivore,17,An agile hunter.
+Kangaroo,Panthera tigris,Fish,Ocean,Omnivore,61,A unique species.
+Crocodile,Panthera leo,Fish,Forest,Herbivore,80,A unique species.
+Tiger,Panthera leo,Reptile,Mountain,Carnivore,67,A unique species.
+Kangaroo,Crocodylus niloticus,Fish,Savannah,Herbivore,67,A large wild animal.
+Cheetah,Giraffa camelopardalis,Fish,Desert,Carnivore,77,A unique species.
+Tiger,Macropus,Mammal,Savannah,Herbivore,14,A unique species.
+Penguin,Panthera tigris,Reptile,Mountain,Herbivore,37,A gentle herbivore.
+Giraffe,Acinonyx jubatus,Amphibian,Savannah,Herbivore,11,A fierce predator.
+Crocodile,Ailuropoda melanoleuca,Bird,Desert,Herbivore,86,A unique species.
+Cheetah,Aquila chrysaetos,Reptile,Forest,Herbivore,97,A fierce predator.
+Giraffe,Macropus,Bird,Savannah,Herbivore,99,A unique species.
+Penguin,Aquila chrysaetos,Mammal,Forest,Omnivore,53,An agile hunter.
+Elephant,Macropus,Amphibian,Forest,Omnivore,10,A large wild animal.
+Lion,Ailuropoda melanoleuca,Fish,Wetlands,Herbivore,75,A unique species.
+Lion,Panthera tigris,Bird,Wetlands,Herbivore,90,A large wild animal.
+Penguin,Crocodylus niloticus,Mammal,Mountain,Carnivore,88,A unique species.
+Elephant,Aquila chrysaetos,Fish,Forest,Carnivore,62,A unique species.
+Penguin,Giraffa camelopardalis,Bird,Forest,Carnivore,57,An agile hunter.
+Cheetah,Aptenodytes forsteri,Fish,Savannah,Carnivore,38,A gentle herbivore.
+Elephant,Macropus,Fish,Desert,Omnivore,45,A fierce predator.
+Tiger,Macropus,Amphibian,Mountain,Carnivore,51,A gentle herbivore.
+Kangaroo,Ailuropoda melanoleuca,Reptile,Mountain,Herbivore,66,A gentle herbivore.
+Kangaroo,Panthera tigris,Fish,Jungle,Herbivore,89,A unique species.
+Eagle,Acinonyx jubatus,Bird,Mountain,Herbivore,31,A unique species.
+Penguin,Panthera tigris,Mammal,Ocean,Omnivore,2,An agile hunter.
+Panda,Panthera tigris,Fish,Desert,Omnivore,24,An agile hunter.
+Crocodile,Acinonyx jubatus,Mammal,Forest,Carnivore,63,An agile hunter.
+Penguin,Loxodonta africana,Mammal,Forest,Herbivore,62,A unique species.
+Tiger,Giraffa camelopardalis,Bird,Forest,Carnivore,8,A large wild animal.
+Elephant,Panthera leo,Reptile,Wetlands,Herbivore,55,A large wild animal.
+Kangaroo,Aquila chrysaetos,Mammal,Mountain,Omnivore,57,A large wild animal.
+Giraffe,Loxodonta africana,Reptile,Forest,Carnivore,85,A fierce predator.
+Eagle,Macropus,Amphibian,Savannah,Omnivore,36,An agile hunter.
+Elephant,Giraffa camelopardalis,Mammal,Wetlands,Herbivore,24,A gentle herbivore.
+Tiger,Ailuropoda melanoleuca,Amphibian,Mountain,Omnivore,27,A large wild animal.
+Kangaroo,Aptenodytes forsteri,Mammal,Wetlands,Omnivore,63,A large wild animal.
+Lion,Loxodonta africana,Bird,Wetlands,Omnivore,9,A large wild animal.
+Cheetah,Macropus,Mammal,Desert,Herbivore,88,A large wild animal.
+Penguin,Giraffa camelopardalis,Reptile,Mountain,Omnivore,100,A large wild animal.
+Crocodile,Panthera tigris,Fish,Forest,Carnivore,49,An agile hunter.
+Giraffe,Macropus,Reptile,Forest,Herbivore,44,A unique species.
+Penguin,Panthera leo,Reptile,Mountain,Carnivore,54,A fierce predator.
+Penguin,Crocodylus niloticus,Mammal,Ocean,Omnivore,69,A unique species.
+Crocodile,Ailuropoda melanoleuca,Amphibian,Desert,Herbivore,80,A gentle herbivore.
+Cheetah,Aptenodytes forsteri,Fish,Mountain,Carnivore,55,A gentle herbivore.
+Penguin,Panthera tigris,Bird,Jungle,Carnivore,5,A gentle herbivore.
+Lion,Aptenodytes forsteri,Amphibian,Savannah,Omnivore,78,A gentle herbivore.
+Giraffe,Panthera tigris,Amphibian,Desert,Herbivore,66,A large wild animal.
+Kangaroo,Ailuropoda melanoleuca,Amphibian,Jungle,Carnivore,43,A large wild animal.
+Panda,Ailuropoda melanoleuca,Mammal,Wetlands,Carnivore,97,A fierce predator.
+Kangaroo,Acinonyx jubatus,Amphibian,Ocean,Carnivore,53,A unique species.
+Panda,Crocodylus niloticus,Amphibian,Wetlands,Omnivore,75,A large wild animal.
+Penguin,Panthera leo,Bird,Jungle,Carnivore,79,A gentle herbivore.
+Tiger,Acinonyx jubatus,Bird,Wetlands,Omnivore,39,A fierce predator.
+Kangaroo,Panthera leo,Fish,Ocean,Herbivore,60,An agile hunter.
+Kangaroo,Loxodonta africana,Reptile,Savannah,Carnivore,20,An agile hunter.
+Eagle,Aptenodytes forsteri,Mammal,Ocean,Herbivore,32,An agile hunter.
+Panda,Acinonyx jubatus,Bird,Savannah,Carnivore,96,A gentle herbivore.
+Cheetah,Loxodonta africana,Reptile,Savannah,Carnivore,84,An agile hunter.
+Cheetah,Loxodonta africana,Mammal,Forest,Herbivore,57,An agile hunter.
+Eagle,Giraffa camelopardalis,Amphibian,Jungle,Carnivore,27,An agile hunter.
+Elephant,Panthera tigris,Bird,Mountain,Omnivore,37,A fierce predator.
+Crocodile,Panthera leo,Reptile,Forest,Carnivore,93,A unique species.
+Tiger,Loxodonta africana,Mammal,Ocean,Carnivore,7,A large wild animal.
+Giraffe,Giraffa camelopardalis,Bird,Wetlands,Omnivore,5,A unique species.
+Panda,Giraffa camelopardalis,Bird,Savannah,Carnivore,91,A gentle herbivore.
+Elephant,Macropus,Bird,Jungle,Carnivore,33,A unique species.
+Eagle,Giraffa camelopardalis,Bird,Jungle,Carnivore,26,A unique species.
+Lion,Aptenodytes forsteri,Mammal,Desert,Herbivore,38,A fierce predator.
+Kangaroo,Ailuropoda melanoleuca,Bird,Forest,Omnivore,89,A unique species.
+Eagle,Aptenodytes forsteri,Bird,Savannah,Carnivore,87,An agile hunter.
+Cheetah,Aquila chrysaetos,Amphibian,Forest,Herbivore,84,An agile hunter.
+Cheetah,Crocodylus niloticus,Amphibian,Mountain,Herbivore,99,A large wild animal.
+Elephant,Crocodylus niloticus,Fish,Ocean,Carnivore,96,A large wild animal.
+Panda,Aquila chrysaetos,Bird,Savannah,Omnivore,90,A large wild animal.
+Cheetah,Acinonyx jubatus,Fish,Jungle,Omnivore,43,A fierce predator.
+Eagle,Macropus,Mammal,Mountain,Omnivore,9,A large wild animal.
+Elephant,Aptenodytes forsteri,Mammal,Desert,Omnivore,55,A unique species.
+Eagle,Acinonyx jubatus,Reptile,Savannah,Omnivore,96,A unique species.
+Crocodile,Loxodonta africana,Amphibian,Savannah,Omnivore,6,A gentle herbivore.
+Giraffe,Aptenodytes forsteri,Mammal,Wetlands,Herbivore,67,A large wild animal.
+Giraffe,Aquila chrysaetos,Mammal,Wetlands,Herbivore,95,A fierce predator.
+Eagle,Aquila chrysaetos,Reptile,Mountain,Omnivore,40,A large wild animal.
+Penguin,Giraffa camelopardalis,Amphibian,Desert,Carnivore,77,A fierce predator.
+Eagle,Giraffa camelopardalis,Fish,Ocean,Herbivore,53,An agile hunter.
+Penguin,Aptenodytes forsteri,Bird,Savannah,Herbivore,43,A fierce predator.
+Crocodile,Crocodylus niloticus,Mammal,Jungle,Herbivore,89,A unique species.
+Cheetah,Crocodylus niloticus,Mammal,Desert,Herbivore,9,A large wild animal.
+Penguin,Loxodonta africana,Reptile,Desert,Carnivore,98,A gentle herbivore.
+Crocodile,Panthera tigris,Mammal,Desert,Carnivore,26,A unique species.
+Lion,Aptenodytes forsteri,Mammal,Wetlands,Herbivore,3,A large wild animal.
+Penguin,Giraffa camelopardalis,Bird,Wetlands,Carnivore,47,An agile hunter.
+Panda,Acinonyx jubatus,Amphibian,Mountain,Omnivore,1,A unique species.
+Penguin,Giraffa camelopardalis,Mammal,Savannah,Omnivore,94,A unique species.
+Penguin,Panthera leo,Bird,Jungle,Omnivore,80,A unique species.
+Kangaroo,Loxodonta africana,Bird,Wetlands,Carnivore,48,A unique species.
+Panda,Giraffa camelopardalis,Amphibian,Wetlands,Herbivore,6,A large wild animal.
+Panda,Panthera tigris,Reptile,Jungle,Herbivore,97,A large wild animal.
+Tiger,Macropus,Reptile,Desert,Carnivore,54,An agile hunter.
+Lion,Aptenodytes forsteri,Bird,Jungle,Herbivore,59,A large wild animal.
+Tiger,Giraffa camelopardalis,Reptile,Savannah,Omnivore,7,A large wild animal.
+Panda,Panthera tigris,Fish,Forest,Omnivore,25,A unique species.
+Crocodile,Aptenodytes forsteri,Bird,Ocean,Herbivore,8,An agile hunter.
+Panda,Aptenodytes forsteri,Bird,Mountain,Herbivore,38,An agile hunter.
+Elephant,Aquila chrysaetos,Mammal,Wetlands,Omnivore,8,A fierce predator.
+Tiger,Ailuropoda melanoleuca,Mammal,Forest,Omnivore,23,An agile hunter.
+Kangaroo,Panthera leo,Bird,Jungle,Omnivore,23,A fierce predator.
+Crocodile,Ailuropoda melanoleuca,Fish,Jungle,Omnivore,53,A fierce predator.
+Tiger,Acinonyx jubatus,Reptile,Forest,Herbivore,78,A fierce predator.
+Penguin,Loxodonta africana,Fish,Jungle,Carnivore,50,A fierce predator.
+Kangaroo,Loxodonta africana,Bird,Desert,Carnivore,67,An agile hunter.
+Giraffe,Ailuropoda melanoleuca,Bird,Jungle,Omnivore,44,An agile hunter.
+Elephant,Aptenodytes forsteri,Reptile,Desert,Carnivore,34,A fierce predator.
+Panda,Crocodylus niloticus,Mammal,Ocean,Carnivore,26,A fierce predator.
+Crocodile,Panthera tigris,Fish,Forest,Herbivore,95,A large wild animal.
+Eagle,Ailuropoda melanoleuca,Amphibian,Wetlands,Herbivore,65,A gentle herbivore.
+Tiger,Acinonyx jubatus,Mammal,Jungle,Herbivore,61,A fierce predator.
+Cheetah,Macropus,Mammal,Forest,Herbivore,26,A unique species.
+Eagle,Aptenodytes forsteri,Mammal,Desert,Omnivore,30,A gentle herbivore.
+Lion,Ailuropoda melanoleuca,Fish,Wetlands,Omnivore,54,A fierce predator.
+Lion,Aquila chrysaetos,Amphibian,Forest,Carnivore,16,A gentle herbivore.
+Kangaroo,Macropus,Bird,Mountain,Carnivore,87,A unique species.
+Lion,Loxodonta africana,Reptile,Wetlands,Herbivore,33,A fierce predator.
+Giraffe,Panthera leo,Amphibian,Desert,Carnivore,37,A large wild animal.
+Crocodile,Loxodonta africana,Bird,Wetlands,Herbivore,22,A gentle herbivore.
+Lion,Macropus,Mammal,Desert,Herbivore,98,A gentle herbivore.
+Kangaroo,Loxodonta africana,Reptile,Savannah,Herbivore,76,An agile hunter.
+Panda,Panthera tigris,Mammal,Savannah,Herbivore,7,A unique species.
+Crocodile,Giraffa camelopardalis,Reptile,Desert,Carnivore,2,An agile hunter.
+Kangaroo,Aquila chrysaetos,Reptile,Desert,Carnivore,4,A gentle herbivore.
+Panda,Giraffa camelopardalis,Mammal,Jungle,Herbivore,99,A fierce predator.
+Lion,Loxodonta africana,Amphibian,Mountain,Carnivore,34,An agile hunter.
+Tiger,Macropus,Fish,Forest,Herbivore,39,A unique species.
+Tiger,Panthera tigris,Amphibian,Ocean,Carnivore,99,A large wild animal.
+Penguin,Ailuropoda melanoleuca,Fish,Savannah,Carnivore,86,An agile hunter.
+Eagle,Aptenodytes forsteri,Mammal,Jungle,Omnivore,73,A gentle herbivore.
+Giraffe,Acinonyx jubatus,Bird,Mountain,Omnivore,99,An agile hunter.
+Elephant,Aquila chrysaetos,Bird,Ocean,Carnivore,17,A large wild animal.
+Tiger,Ailuropoda melanoleuca,Amphibian,Savannah,Herbivore,88,A unique species.
+Giraffe,Giraffa camelopardalis,Fish,Savannah,Herbivore,74,A gentle herbivore.
+Giraffe,Panthera tigris,Mammal,Jungle,Carnivore,10,An agile hunter.
+Crocodile,Acinonyx jubatus,Fish,Mountain,Omnivore,65,A large wild animal.
+Penguin,Ailuropoda melanoleuca,Reptile,Savannah,Herbivore,5,A fierce predator.
+Lion,Macropus,Bird,Wetlands,Omnivore,93,A unique species.
+Tiger,Loxodonta africana,Bird,Desert,Herbivore,9,A unique species.
+Elephant,Crocodylus niloticus,Amphibian,Ocean,Carnivore,3,An agile hunter.
+Giraffe,Crocodylus niloticus,Mammal,Savannah,Herbivore,17,An agile hunter.
+Kangaroo,Panthera leo,Fish,Mountain,Herbivore,65,A gentle herbivore.
+Penguin,Acinonyx jubatus,Bird,Forest,Herbivore,9,A unique species.
+Tiger,Aquila chrysaetos,Bird,Forest,Herbivore,67,A fierce predator.
+Lion,Giraffa camelopardalis,Amphibian,Wetlands,Carnivore,92,A large wild animal.
+Kangaroo,Aquila chrysaetos,Bird,Wetlands,Herbivore,97,A gentle herbivore.
+Elephant,Panthera leo,Bird,Jungle,Herbivore,82,A large wild animal.
+Kangaroo,Acinonyx jubatus,Bird,Mountain,Omnivore,18,An agile hunter.
+Tiger,Acinonyx jubatus,Fish,Forest,Omnivore,4,A large wild animal.
+Panda,Aptenodytes forsteri,Bird,Wetlands,Omnivore,82,A unique species.
+Kangaroo,Aquila chrysaetos,Reptile,Mountain,Herbivore,56,A gentle herbivore.
+Tiger,Panthera tigris,Reptile,Wetlands,Omnivore,71,An agile hunter.
+Tiger,Panthera tigris,Fish,Jungle,Omnivore,5,A unique species.
+Elephant,Acinonyx jubatus,Amphibian,Ocean,Carnivore,22,A fierce predator.
+Eagle,Panthera tigris,Amphibian,Mountain,Herbivore,79,An agile hunter.
+Penguin,Giraffa camelopardalis,Fish,Savannah,Omnivore,52,A large wild animal.
+Cheetah,Aquila chrysaetos,Amphibian,Forest,Carnivore,37,A large wild animal.
+Elephant,Ailuropoda melanoleuca,Bird,Forest,Omnivore,42,A large wild animal.
+Crocodile,Aquila chrysaetos,Mammal,Wetlands,Carnivore,12,An agile hunter.
+Penguin,Crocodylus niloticus,Fish,Mountain,Carnivore,36,A large wild animal.
+Lion,Giraffa camelopardalis,Amphibian,Savannah,Herbivore,19,A fierce predator.
+Lion,Aptenodytes forsteri,Bird,Forest,Herbivore,58,A gentle herbivore.
+Cheetah,Macropus,Bird,Ocean,Omnivore,70,An agile hunter.
+Tiger,Aquila chrysaetos,Mammal,Wetlands,Omnivore,16,An agile hunter.
+Crocodile,Aquila chrysaetos,Amphibian,Wetlands,Herbivore,90,A gentle herbivore.
+Cheetah,Panthera tigris,Fish,Forest,Omnivore,99,A large wild animal.
+Penguin,Ailuropoda melanoleuca,Fish,Ocean,Omnivore,20,A fierce predator.
+Giraffe,Ailuropoda melanoleuca,Amphibian,Forest,Carnivore,63,A gentle herbivore.
+Tiger,Giraffa camelopardalis,Mammal,Wetlands,Omnivore,97,A gentle herbivore.
+Elephant,Aptenodytes forsteri,Fish,Wetlands,Carnivore,65,An agile hunter.
+Tiger,Panthera leo,Bird,Wetlands,Carnivore,1,A fierce predator.
+Kangaroo,Acinonyx jubatus,Fish,Wetlands,Herbivore,33,A unique species.
+Lion,Ailuropoda melanoleuca,Reptile,Jungle,Omnivore,97,A gentle herbivore.
+Giraffe,Acinonyx jubatus,Reptile,Wetlands,Omnivore,28,A large wild animal.
+Penguin,Loxodonta africana,Reptile,Savannah,Omnivore,60,An agile hunter.
+Cheetah,Aquila chrysaetos,Mammal,Savannah,Carnivore,65,A fierce predator.
+Lion,Aptenodytes forsteri,Mammal,Desert,Herbivore,58,A gentle herbivore.
+Elephant,Aquila chrysaetos,Mammal,Savannah,Herbivore,46,A gentle herbivore.
+Lion,Panthera leo,Mammal,Mountain,Omnivore,26,A large wild animal.
+Panda,Panthera leo,Amphibian,Savannah,Carnivore,9,A gentle herbivore.
+Tiger,Panthera tigris,Mammal,Ocean,Carnivore,74,A gentle herbivore.
+Crocodile,Aptenodytes forsteri,Amphibian,Ocean,Omnivore,51,A gentle herbivore.
+Eagle,Acinonyx jubatus,Amphibian,Mountain,Carnivore,45,A unique species.
+Elephant,Macropus,Fish,Savannah,Omnivore,91,A fierce predator.
+Eagle,Aptenodytes forsteri,Amphibian,Savannah,Omnivore,87,A large wild animal.
+Cheetah,Loxodonta africana,Fish,Savannah,Carnivore,18,A fierce predator.
+Elephant,Panthera leo,Bird,Jungle,Herbivore,44,A large wild animal.
+Crocodile,Acinonyx jubatus,Amphibian,Mountain,Omnivore,16,A fierce predator.
+Cheetah,Aptenodytes forsteri,Fish,Ocean,Herbivore,73,A unique species.
+Crocodile,Ailuropoda melanoleuca,Mammal,Savannah,Carnivore,41,An agile hunter.
+Penguin,Aptenodytes forsteri,Mammal,Jungle,Carnivore,31,A gentle herbivore.
+Giraffe,Aptenodytes forsteri,Bird,Wetlands,Omnivore,24,A fierce predator.
+Tiger,Acinonyx jubatus,Reptile,Ocean,Omnivore,54,An agile hunter.
+Panda,Panthera tigris,Mammal,Wetlands,Omnivore,9,An agile hunter.
+Elephant,Panthera tigris,Amphibian,Wetlands,Herbivore,79,A fierce predator.
+Eagle,Panthera tigris,Mammal,Forest,Herbivore,6,A gentle herbivore.
+Tiger,Ailuropoda melanoleuca,Amphibian,Wetlands,Herbivore,58,An agile hunter.
+Kangaroo,Panthera tigris,Reptile,Forest,Carnivore,75,An agile hunter.
+Elephant,Giraffa camelopardalis,Fish,Wetlands,Carnivore,21,A fierce predator.
+Penguin,Ailuropoda melanoleuca,Mammal,Desert,Omnivore,25,An agile hunter.
+Cheetah,Acinonyx jubatus,Bird,Forest,Omnivore,89,A fierce predator.
+Cheetah,Panthera leo,Reptile,Desert,Omnivore,12,A gentle herbivore.
+Crocodile,Giraffa camelopardalis,Mammal,Forest,Herbivore,61,An agile hunter.
+Elephant,Acinonyx jubatus,Reptile,Forest,Herbivore,96,A unique species.
+Eagle,Giraffa camelopardalis,Reptile,Jungle,Omnivore,39,A fierce predator.
+Penguin,Macropus,Bird,Mountain,Omnivore,40,A unique species.
+Elephant,Ailuropoda melanoleuca,Amphibian,Jungle,Herbivore,68,A unique species.
+Lion,Aquila chrysaetos,Bird,Jungle,Carnivore,89,A large wild animal.
+Lion,Aptenodytes forsteri,Reptile,Mountain,Omnivore,50,A large wild animal.
+Tiger,Panthera tigris,Amphibian,Mountain,Herbivore,48,A unique species.
+Crocodile,Aquila chrysaetos,Mammal,Mountain,Omnivore,90,A large wild animal.
+Tiger,Aquila chrysaetos,Fish,Desert,Omnivore,54,A fierce predator.
+Lion,Crocodylus niloticus,Reptile,Jungle,Omnivore,84,A gentle herbivore.
+Penguin,Giraffa camelopardalis,Mammal,Savannah,Omnivore,48,A fierce predator.
+Crocodile,Giraffa camelopardalis,Mammal,Jungle,Herbivore,90,A fierce predator.
+Crocodile,Giraffa camelopardalis,Amphibian,Jungle,Herbivore,8,A fierce predator.
+Penguin,Panthera leo,Reptile,Wetlands,Carnivore,8,A fierce predator.
+Panda,Loxodonta africana,Mammal,Desert,Carnivore,64,An agile hunter.
+Elephant,Giraffa camelopardalis,Fish,Wetlands,Carnivore,10,A large wild animal.
+Eagle,Panthera tigris,Bird,Mountain,Omnivore,48,A gentle herbivore.
+Lion,Loxodonta africana,Amphibian,Wetlands,Herbivore,69,A fierce predator.
+Tiger,Ailuropoda melanoleuca,Bird,Forest,Omnivore,9,A unique species.
+Cheetah,Ailuropoda melanoleuca,Amphibian,Ocean,Herbivore,5,A gentle herbivore.
+Panda,Crocodylus niloticus,Amphibian,Mountain,Herbivore,19,A fierce predator.
+Eagle,Aquila chrysaetos,Fish,Mountain,Carnivore,38,A gentle herbivore.
+Crocodile,Giraffa camelopardalis,Amphibian,Jungle,Herbivore,62,A unique species.
+Penguin,Aptenodytes forsteri,Bird,Jungle,Herbivore,73,An agile hunter.
+Tiger,Acinonyx jubatus,Amphibian,Wetlands,Herbivore,4,A gentle herbivore.
+Penguin,Aptenodytes forsteri,Amphibian,Jungle,Omnivore,28,A gentle herbivore.
+Giraffe,Aquila chrysaetos,Bird,Savannah,Carnivore,100,A large wild animal.
+Giraffe,Acinonyx jubatus,Bird,Desert,Carnivore,8,A large wild animal.
+Panda,Crocodylus niloticus,Fish,Wetlands,Omnivore,26,A fierce predator.
+Lion,Acinonyx jubatus,Fish,Savannah,Omnivore,28,An agile hunter.
+Giraffe,Macropus,Mammal,Mountain,Herbivore,39,A fierce predator.
+Cheetah,Loxodonta africana,Bird,Mountain,Omnivore,54,A large wild animal.
+Elephant,Aquila chrysaetos,Reptile,Ocean,Omnivore,67,A fierce predator.
+Lion,Crocodylus niloticus,Bird,Forest,Omnivore,9,A fierce predator.
+Tiger,Giraffa camelopardalis,Reptile,Mountain,Omnivore,77,A large wild animal.
+Penguin,Crocodylus niloticus,Fish,Desert,Herbivore,67,A unique species.
+Giraffe,Panthera tigris,Amphibian,Mountain,Omnivore,79,A gentle herbivore.
+Panda,Aptenodytes forsteri,Amphibian,Desert,Carnivore,9,A gentle herbivore.
+Lion,Giraffa camelopardalis,Reptile,Ocean,Omnivore,55,A large wild animal.
+Eagle,Ailuropoda melanoleuca,Mammal,Ocean,Carnivore,65,A fierce predator.
+Cheetah,Giraffa camelopardalis,Mammal,Desert,Herbivore,4,An agile hunter.
+Panda,Ailuropoda melanoleuca,Fish,Ocean,Carnivore,36,A fierce predator.
+Panda,Panthera leo,Mammal,Savannah,Omnivore,18,A large wild animal.
+Elephant,Loxodonta africana,Reptile,Desert,Omnivore,61,A gentle herbivore.
+Eagle,Crocodylus niloticus,Mammal,Desert,Herbivore,22,A large wild animal.
+Kangaroo,Ailuropoda melanoleuca,Bird,Forest,Omnivore,54,A unique species.
+Lion,Giraffa camelopardalis,Fish,Mountain,Carnivore,51,A gentle herbivore.
+Crocodile,Acinonyx jubatus,Fish,Mountain,Herbivore,75,A unique species.
+Eagle,Giraffa camelopardalis,Reptile,Wetlands,Omnivore,76,A fierce predator.
+Kangaroo,Giraffa camelopardalis,Fish,Savannah,Omnivore,69,An agile hunter.
+Cheetah,Aquila chrysaetos,Mammal,Forest,Herbivore,100,A gentle herbivore.
+Penguin,Panthera tigris,Mammal,Savannah,Herbivore,13,An agile hunter.
+Lion,Aquila chrysaetos,Reptile,Desert,Carnivore,80,A fierce predator.
+Penguin,Panthera leo,Bird,Mountain,Omnivore,47,A fierce predator.
+Penguin,Panthera leo,Mammal,Ocean,Herbivore,40,An agile hunter.
+Kangaroo,Aquila chrysaetos,Reptile,Jungle,Omnivore,73,A large wild animal.
+Panda,Panthera leo,Reptile,Mountain,Omnivore,55,A unique species.
+Elephant,Aptenodytes forsteri,Fish,Jungle,Omnivore,36,A fierce predator.
+Crocodile,Aquila chrysaetos,Reptile,Savannah,Omnivore,43,A fierce predator.
+Giraffe,Aquila chrysaetos,Bird,Savannah,Omnivore,80,A large wild animal.
+Lion,Panthera leo,Fish,Wetlands,Herbivore,94,A large wild animal.
+Kangaroo,Panthera leo,Reptile,Mountain,Herbivore,98,An agile hunter.
+Eagle,Panthera leo,Amphibian,Wetlands,Carnivore,78,A gentle herbivore.
+Cheetah,Macropus,Amphibian,Forest,Herbivore,52,A large wild animal.
+Tiger,Aquila chrysaetos,Reptile,Desert,Herbivore,59,A large wild animal.
+Lion,Panthera tigris,Amphibian,Forest,Omnivore,96,A large wild animal.
+Panda,Panthera tigris,Reptile,Ocean,Omnivore,96,A large wild animal.
+Tiger,Aptenodytes forsteri,Fish,Desert,Omnivore,71,A large wild animal.
+Penguin,Panthera leo,Bird,Ocean,Carnivore,68,A large wild animal.
+Kangaroo,Crocodylus niloticus,Bird,Desert,Herbivore,90,A fierce predator.
+Tiger,Crocodylus niloticus,Fish,Mountain,Omnivore,7,A large wild animal.
+Tiger,Panthera tigris,Fish,Ocean,Omnivore,65,An agile hunter.
+Lion,Giraffa camelopardalis,Reptile,Mountain,Carnivore,69,A gentle herbivore.
+Crocodile,Crocodylus niloticus,Bird,Forest,Omnivore,4,A gentle herbivore.
+Cheetah,Acinonyx jubatus,Fish,Forest,Herbivore,68,A unique species.
+Elephant,Giraffa camelopardalis,Bird,Savannah,Herbivore,50,A fierce predator.
+Elephant,Panthera tigris,Mammal,Savannah,Carnivore,82,A unique species.
+Giraffe,Giraffa camelopardalis,Mammal,Jungle,Carnivore,56,A unique species.
+Crocodile,Macropus,Fish,Mountain,Carnivore,81,A unique species.
+Lion,Acinonyx jubatus,Fish,Jungle,Carnivore,95,A fierce predator.
+Kangaroo,Aquila chrysaetos,Bird,Ocean,Omnivore,31,A unique species.
+Elephant,Panthera leo,Bird,Wetlands,Carnivore,53,An agile hunter.
+Penguin,Aquila chrysaetos,Amphibian,Desert,Herbivore,82,A large wild animal.
+Lion,Acinonyx jubatus,Mammal,Wetlands,Omnivore,84,A large wild animal.
+Elephant,Panthera leo,Bird,Ocean,Herbivore,74,A unique species.
+Penguin,Crocodylus niloticus,Amphibian,Ocean,Carnivore,33,A large wild animal.
+Kangaroo,Aquila chrysaetos,Bird,Savannah,Herbivore,89,A gentle herbivore.
+Kangaroo,Panthera leo,Reptile,Ocean,Omnivore,92,A large wild animal.
+Elephant,Macropus,Reptile,Ocean,Herbivore,8,A gentle herbivore.
+Eagle,Crocodylus niloticus,Mammal,Ocean,Carnivore,76,A fierce predator.
+Cheetah,Loxodonta africana,Amphibian,Jungle,Herbivore,75,A fierce predator.
+Eagle,Panthera leo,Amphibian,Wetlands,Herbivore,14,A fierce predator.
+Kangaroo,Loxodonta africana,Fish,Mountain,Omnivore,70,A fierce predator.
+Kangaroo,Ailuropoda melanoleuca,Reptile,Ocean,Carnivore,35,An agile hunter.
+Crocodile,Acinonyx jubatus,Amphibian,Jungle,Carnivore,2,A gentle herbivore.
+Penguin,Ailuropoda melanoleuca,Mammal,Savannah,Carnivore,76,A large wild animal.
+Cheetah,Macropus,Bird,Ocean,Herbivore,56,A gentle herbivore.
+Crocodile,Panthera leo,Mammal,Wetlands,Carnivore,6,A large wild animal.
+Penguin,Panthera tigris,Mammal,Wetlands,Herbivore,86,A fierce predator.
+Lion,Ailuropoda melanoleuca,Amphibian,Ocean,Carnivore,100,A fierce predator.
+Penguin,Macropus,Amphibian,Wetlands,Carnivore,70,An agile hunter.
+Penguin,Giraffa camelopardalis,Mammal,Savannah,Omnivore,98,A large wild animal.
+Elephant,Panthera leo,Fish,Mountain,Carnivore,33,An agile hunter.
+Cheetah,Ailuropoda melanoleuca,Reptile,Jungle,Carnivore,51,A fierce predator.
+Cheetah,Panthera leo,Amphibian,Mountain,Carnivore,29,A fierce predator.
+Eagle,Panthera tigris,Amphibian,Forest,Carnivore,29,A fierce predator.
+Eagle,Crocodylus niloticus,Mammal,Jungle,Herbivore,14,A fierce predator.
+Penguin,Aptenodytes forsteri,Reptile,Mountain,Omnivore,27,An agile hunter.
+Tiger,Macropus,Bird,Ocean,Carnivore,51,A large wild animal.
+Eagle,Loxodonta africana,Mammal,Desert,Carnivore,27,A unique species.
+Panda,Panthera leo,Bird,Savannah,Carnivore,90,A large wild animal.
+Kangaroo,Panthera tigris,Bird,Forest,Carnivore,45,An agile hunter.
+Cheetah,Ailuropoda melanoleuca,Fish,Mountain,Omnivore,91,A fierce predator.
+Lion,Macropus,Amphibian,Savannah,Carnivore,64,A gentle herbivore.
+Giraffe,Panthera tigris,Reptile,Savannah,Omnivore,2,A gentle herbivore.
+Panda,Panthera tigris,Reptile,Mountain,Carnivore,18,A fierce predator.
+Giraffe,Aptenodytes forsteri,Reptile,Mountain,Herbivore,82,A fierce predator.
+Kangaroo,Acinonyx jubatus,Amphibian,Ocean,Omnivore,65,A gentle herbivore.
+Penguin,Aptenodytes forsteri,Bird,Forest,Omnivore,19,A large wild animal.
+Penguin,Macropus,Mammal,Mountain,Omnivore,90,A fierce predator.
+Panda,Giraffa camelopardalis,Bird,Desert,Carnivore,7,A unique species.
+Panda,Panthera leo,Amphibian,Mountain,Carnivore,27,A gentle herbivore.
+Kangaroo,Crocodylus niloticus,Mammal,Ocean,Omnivore,73,A large wild animal.
+Tiger,Aptenodytes forsteri,Bird,Forest,Herbivore,5,An agile hunter.
+Kangaroo,Panthera tigris,Bird,Forest,Carnivore,49,An agile hunter.
+Cheetah,Panthera tigris,Fish,Ocean,Herbivore,100,A fierce predator.
+Tiger,Crocodylus niloticus,Fish,Savannah,Carnivore,63,A gentle herbivore.
+Giraffe,Panthera leo,Mammal,Ocean,Omnivore,86,A gentle herbivore.
+Eagle,Panthera leo,Amphibian,Desert,Herbivore,22,A large wild animal.
+Panda,Panthera tigris,Reptile,Ocean,Herbivore,77,A gentle herbivore.
+Eagle,Panthera tigris,Amphibian,Savannah,Omnivore,12,A gentle herbivore.
+Tiger,Aptenodytes forsteri,Bird,Mountain,Carnivore,40,A unique species.
+Tiger,Aquila chrysaetos,Mammal,Wetlands,Carnivore,84,A gentle herbivore.
+Panda,Macropus,Fish,Forest,Herbivore,21,An agile hunter.
+Lion,Aptenodytes forsteri,Reptile,Savannah,Herbivore,13,A gentle herbivore.
+Cheetah,Acinonyx jubatus,Reptile,Jungle,Omnivore,57,A unique species.
+Panda,Acinonyx jubatus,Reptile,Ocean,Carnivore,51,A large wild animal.
+Tiger,Panthera tigris,Bird,Jungle,Herbivore,12,A large wild animal.
+Penguin,Macropus,Mammal,Savannah,Herbivore,78,A unique species.
+Crocodile,Panthera leo,Fish,Desert,Carnivore,57,A gentle herbivore.
+Penguin,Acinonyx jubatus,Fish,Ocean,Carnivore,96,A large wild animal.
+Giraffe,Panthera tigris,Fish,Desert,Carnivore,7,A fierce predator.
+Penguin,Ailuropoda melanoleuca,Bird,Ocean,Omnivore,39,A large wild animal.
+Elephant,Crocodylus niloticus,Reptile,Jungle,Carnivore,76,A large wild animal.
+Cheetah,Crocodylus niloticus,Bird,Savannah,Carnivore,41,A fierce predator.
+Panda,Giraffa camelopardalis,Fish,Forest,Herbivore,52,A large wild animal.
+Kangaroo,Ailuropoda melanoleuca,Bird,Mountain,Herbivore,36,A large wild animal.
+Tiger,Loxodonta africana,Reptile,Wetlands,Omnivore,46,A large wild animal.
+Tiger,Aptenodytes forsteri,Reptile,Desert,Carnivore,13,A fierce predator.
+Kangaroo,Acinonyx jubatus,Reptile,Ocean,Carnivore,76,A fierce predator.
+Crocodile,Macropus,Mammal,Forest,Herbivore,77,A gentle herbivore.
+Eagle,Acinonyx jubatus,Bird,Desert,Omnivore,26,A fierce predator.
+Lion,Crocodylus niloticus,Amphibian,Ocean,Herbivore,49,A large wild animal.
+Crocodile,Crocodylus niloticus,Reptile,Forest,Carnivore,83,A unique species.
+Penguin,Panthera leo,Amphibian,Desert,Carnivore,49,A fierce predator.
+Kangaroo,Macropus,Bird,Desert,Herbivore,47,An agile hunter.
+Kangaroo,Ailuropoda melanoleuca,Mammal,Wetlands,Carnivore,86,An agile hunter.
+Eagle,Macropus,Bird,Forest,Omnivore,6,A unique species.
+Kangaroo,Panthera leo,Bird,Ocean,Herbivore,8,A fierce predator.
+Kangaroo,Panthera tigris,Fish,Ocean,Herbivore,42,A unique species.
+Kangaroo,Crocodylus niloticus,Bird,Forest,Herbivore,74,A unique species.
+Penguin,Panthera leo,Mammal,Mountain,Carnivore,22,A unique species.
+Panda,Giraffa camelopardalis,Amphibian,Jungle,Omnivore,69,A gentle herbivore.
+Tiger,Panthera leo,Amphibian,Jungle,Omnivore,6,A unique species.
+Kangaroo,Panthera tigris,Fish,Wetlands,Carnivore,39,A large wild animal.
+Lion,Loxodonta africana,Reptile,Savannah,Omnivore,52,A unique species.
+Panda,Ailuropoda melanoleuca,Bird,Wetlands,Carnivore,58,A unique species.
+Panda,Panthera leo,Amphibian,Savannah,Omnivore,5,A large wild animal.
+Giraffe,Ailuropoda melanoleuca,Mammal,Wetlands,Herbivore,16,A gentle herbivore.
+Elephant,Aquila chrysaetos,Amphibian,Savannah,Herbivore,75,A fierce predator.
+Penguin,Macropus,Bird,Savannah,Omnivore,43,A large wild animal.
+Panda,Macropus,Mammal,Mountain,Omnivore,53,An agile hunter.
+Crocodile,Crocodylus niloticus,Fish,Wetlands,Carnivore,79,A gentle herbivore.
+Cheetah,Loxodonta africana,Fish,Desert,Omnivore,89,A unique species.
+Eagle,Giraffa camelopardalis,Amphibian,Savannah,Carnivore,56,An agile hunter.
+Cheetah,Aptenodytes forsteri,Bird,Jungle,Carnivore,58,A fierce predator.
+Panda,Loxodonta africana,Amphibian,Wetlands,Carnivore,21,A fierce predator.
+Penguin,Crocodylus niloticus,Bird,Wetlands,Carnivore,44,An agile hunter.
+Panda,Crocodylus niloticus,Bird,Jungle,Herbivore,60,A unique species.
+Tiger,Giraffa camelopardalis,Mammal,Desert,Carnivore,8,A large wild animal.
+Lion,Macropus,Fish,Ocean,Omnivore,84,An agile hunter.
+Tiger,Panthera tigris,Amphibian,Wetlands,Herbivore,56,An agile hunter.
+Eagle,Crocodylus niloticus,Bird,Ocean,Herbivore,30,An agile hunter.
+Crocodile,Giraffa camelopardalis,Reptile,Desert,Omnivore,60,A gentle herbivore.
+Crocodile,Aptenodytes forsteri,Fish,Forest,Herbivore,41,A fierce predator.
+Giraffe,Panthera leo,Fish,Savannah,Herbivore,58,An agile hunter.
+Crocodile,Giraffa camelopardalis,Bird,Wetlands,Carnivore,3,A fierce predator.
+Giraffe,Aquila chrysaetos,Reptile,Jungle,Herbivore,52,A unique species.
+Eagle,Loxodonta africana,Amphibian,Ocean,Omnivore,72,A large wild animal.
+Lion,Loxodonta africana,Fish,Ocean,Omnivore,49,A fierce predator.
+Penguin,Acinonyx jubatus,Mammal,Mountain,Omnivore,4,A unique species.
+Penguin,Acinonyx jubatus,Fish,Forest,Omnivore,26,A large wild animal.
+Giraffe,Panthera tigris,Amphibian,Wetlands,Omnivore,93,A fierce predator.
+Eagle,Aquila chrysaetos,Reptile,Mountain,Herbivore,41,A unique species.
+Kangaroo,Panthera tigris,Reptile,Ocean,Herbivore,17,An agile hunter.
+Elephant,Crocodylus niloticus,Mammal,Desert,Herbivore,81,A unique species.
+Eagle,Panthera leo,Amphibian,Mountain,Herbivore,88,A large wild animal.
+Elephant,Ailuropoda melanoleuca,Mammal,Ocean,Omnivore,31,A fierce predator.
+Tiger,Ailuropoda melanoleuca,Bird,Forest,Herbivore,76,A large wild animal.
+Panda,Ailuropoda melanoleuca,Amphibian,Wetlands,Carnivore,89,A large wild animal.
+Panda,Crocodylus niloticus,Fish,Jungle,Herbivore,9,A unique species.
+Panda,Giraffa camelopardalis,Bird,Savannah,Omnivore,54,A large wild animal.
+Giraffe,Crocodylus niloticus,Reptile,Jungle,Carnivore,19,A gentle herbivore.
+Tiger,Aptenodytes forsteri,Fish,Mountain,Omnivore,62,A fierce predator.
+Cheetah,Acinonyx jubatus,Reptile,Desert,Carnivore,28,A gentle herbivore.
+Crocodile,Aptenodytes forsteri,Reptile,Savannah,Omnivore,19,An agile hunter.
+Kangaroo,Loxodonta africana,Amphibian,Ocean,Herbivore,47,A large wild animal.
+Lion,Acinonyx jubatus,Mammal,Mountain,Herbivore,37,A unique species.
+Lion,Panthera leo,Bird,Wetlands,Herbivore,96,A gentle herbivore.
+Lion,Macropus,Reptile,Forest,Herbivore,53,An agile hunter.
+Kangaroo,Panthera leo,Fish,Desert,Carnivore,88,A large wild animal.
+Tiger,Crocodylus niloticus,Reptile,Forest,Carnivore,9,An agile hunter.
+Lion,Panthera leo,Mammal,Forest,Herbivore,13,A unique species.
+Giraffe,Crocodylus niloticus,Mammal,Savannah,Carnivore,65,A gentle herbivore.
+Eagle,Loxodonta africana,Reptile,Jungle,Omnivore,30,A unique species.
+Elephant,Giraffa camelopardalis,Fish,Savannah,Herbivore,25,A unique species.
+Kangaroo,Aquila chrysaetos,Bird,Desert,Herbivore,33,A unique species.
+Giraffe,Ailuropoda melanoleuca,Reptile,Desert,Herbivore,93,A gentle herbivore.
+Eagle,Macropus,Amphibian,Mountain,Carnivore,13,A unique species.
+Cheetah,Giraffa camelopardalis,Mammal,Wetlands,Carnivore,70,An agile hunter.
+Kangaroo,Macropus,Mammal,Ocean,Carnivore,22,A large wild animal.
+Eagle,Giraffa camelopardalis,Reptile,Savannah,Carnivore,91,A large wild animal.
+Giraffe,Giraffa camelopardalis,Mammal,Forest,Carnivore,10,A fierce predator.
+Penguin,Giraffa camelopardalis,Reptile,Forest,Carnivore,53,A unique species.
+Lion,Acinonyx jubatus,Bird,Savannah,Carnivore,27,A unique species.
+Kangaroo,Aptenodytes forsteri,Amphibian,Mountain,Herbivore,8,A unique species.
+Elephant,Ailuropoda melanoleuca,Bird,Ocean,Herbivore,52,A unique species.
+Lion,Giraffa camelopardalis,Bird,Forest,Carnivore,60,A unique species.
+Panda,Loxodonta africana,Bird,Forest,Carnivore,25,An agile hunter.
+Penguin,Giraffa camelopardalis,Mammal,Jungle,Herbivore,31,An agile hunter.
+Panda,Acinonyx jubatus,Reptile,Savannah,Carnivore,40,A large wild animal.
+Penguin,Panthera leo,Mammal,Desert,Carnivore,89,A fierce predator.
+Giraffe,Panthera tigris,Mammal,Forest,Omnivore,34,An agile hunter.
+Crocodile,Aquila chrysaetos,Fish,Ocean,Omnivore,62,A unique species.
+Lion,Panthera leo,Bird,Wetlands,Carnivore,84,A fierce predator.
+Panda,Giraffa camelopardalis,Bird,Wetlands,Omnivore,60,An agile hunter.
+Crocodile,Panthera leo,Mammal,Desert,Herbivore,29,A fierce predator.
+Lion,Aquila chrysaetos,Bird,Ocean,Carnivore,8,A large wild animal.
+Kangaroo,Crocodylus niloticus,Mammal,Wetlands,Omnivore,4,An agile hunter.
+Penguin,Acinonyx jubatus,Bird,Mountain,Omnivore,16,A fierce predator.
+Crocodile,Panthera leo,Fish,Desert,Omnivore,46,A large wild animal.
+Panda,Aptenodytes forsteri,Amphibian,Desert,Omnivore,58,A unique species.
+Cheetah,Aptenodytes forsteri,Amphibian,Forest,Carnivore,10,A unique species.
+Crocodile,Aquila chrysaetos,Mammal,Forest,Herbivore,32,A fierce predator.
+Penguin,Panthera leo,Fish,Savannah,Herbivore,4,A unique species.
+Kangaroo,Acinonyx jubatus,Fish,Wetlands,Carnivore,100,A gentle herbivore.
+Kangaroo,Panthera tigris,Amphibian,Mountain,Herbivore,14,A gentle herbivore.
+Crocodile,Loxodonta africana,Fish,Mountain,Omnivore,97,A gentle herbivore.
+Panda,Aptenodytes forsteri,Bird,Ocean,Carnivore,68,A unique species.
+Penguin,Crocodylus niloticus,Mammal,Mountain,Omnivore,67,A unique species.
+Elephant,Ailuropoda melanoleuca,Amphibian,Savannah,Herbivore,26,A fierce predator.
+Panda,Panthera tigris,Reptile,Mountain,Carnivore,83,A unique species.
+Panda,Panthera leo,Reptile,Mountain,Herbivore,13,A unique species.
+Giraffe,Aquila chrysaetos,Reptile,Wetlands,Omnivore,33,A fierce predator.
+Cheetah,Macropus,Fish,Mountain,Omnivore,62,A fierce predator.
+Cheetah,Acinonyx jubatus,Reptile,Savannah,Omnivore,59,A fierce predator.
+Elephant,Panthera leo,Amphibian,Savannah,Omnivore,22,A large wild animal.
+Giraffe,Aquila chrysaetos,Amphibian,Jungle,Omnivore,28,A unique species.
+Eagle,Giraffa camelopardalis,Fish,Desert,Carnivore,73,A unique species.
+Tiger,Macropus,Reptile,Wetlands,Herbivore,39,A large wild animal.
+Crocodile,Loxodonta africana,Mammal,Mountain,Herbivore,78,A gentle herbivore.
+Tiger,Macropus,Reptile,Wetlands,Carnivore,64,A fierce predator.
+Panda,Panthera leo,Reptile,Mountain,Omnivore,85,A unique species.
+Elephant,Panthera leo,Reptile,Wetlands,Omnivore,10,A fierce predator.
+Elephant,Panthera leo,Bird,Savannah,Omnivore,57,A fierce predator.
+Panda,Aptenodytes forsteri,Fish,Desert,Herbivore,44,A large wild animal.
+Eagle,Aptenodytes forsteri,Bird,Mountain,Omnivore,88,A fierce predator.
+Giraffe,Acinonyx jubatus,Bird,Mountain,Omnivore,41,A large wild animal.
+Elephant,Loxodonta africana,Reptile,Wetlands,Herbivore,78,A gentle herbivore.
+Giraffe,Acinonyx jubatus,Reptile,Forest,Omnivore,63,An agile hunter.
+Tiger,Aquila chrysaetos,Amphibian,Forest,Omnivore,39,A large wild animal.
+Eagle,Crocodylus niloticus,Reptile,Ocean,Omnivore,29,A gentle herbivore.
+Tiger,Aquila chrysaetos,Reptile,Jungle,Herbivore,24,A large wild animal.
+Giraffe,Panthera tigris,Fish,Savannah,Omnivore,80,A large wild animal.
+Panda,Giraffa camelopardalis,Amphibian,Mountain,Omnivore,59,A gentle herbivore.
+Crocodile,Aptenodytes forsteri,Fish,Wetlands,Herbivore,48,A gentle herbivore.
+Eagle,Giraffa camelopardalis,Reptile,Wetlands,Carnivore,6,A fierce predator.
+Elephant,Aptenodytes forsteri,Bird,Jungle,Carnivore,19,An agile hunter.
+Elephant,Acinonyx jubatus,Bird,Ocean,Herbivore,60,An agile hunter.
+Penguin,Loxodonta africana,Bird,Desert,Carnivore,40,A gentle herbivore.
+Eagle,Loxodonta africana,Reptile,Forest,Herbivore,12,A unique species.
+Elephant,Acinonyx jubatus,Reptile,Desert,Herbivore,16,A large wild animal.
+Panda,Loxodonta africana,Fish,Desert,Herbivore,89,A unique species.
+Elephant,Giraffa camelopardalis,Reptile,Ocean,Carnivore,79,A large wild animal.
+Kangaroo,Aquila chrysaetos,Mammal,Mountain,Herbivore,40,An agile hunter.
+Tiger,Panthera tigris,Reptile,Wetlands,Carnivore,50,A unique species.
+Elephant,Ailuropoda melanoleuca,Mammal,Savannah,Carnivore,57,A fierce predator.
+Kangaroo,Crocodylus niloticus,Reptile,Desert,Carnivore,55,A unique species.
+Cheetah,Ailuropoda melanoleuca,Fish,Wetlands,Herbivore,95,An agile hunter.

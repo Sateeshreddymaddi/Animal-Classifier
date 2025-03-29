@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animal Classifier</title>
+    <style>
+        /* General Styling */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #1E3C72, #2A5298);
+            color: white;
+            text-align: center;
+            padding: 30px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Form Styling */
+        form {
+            background: rgba(255, 255, 255, 0.15);
+            padding: 20px;
+            border-radius: 15px;
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            box-shadow: 0 4px 15px rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+        }
+
+        input[type="text"] {
+            padding: 12px;
+            width: 280px;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            outline: none;
+            text-align: center;
+        }
+
+        button {
+            background: #FF6B6B;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            font-size: 1rem;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: 0.3s ease-in-out;
+            font-weight: bold;
+        }
+
+        button:hover {
+            background: #ff4b4b;
+            transform: scale(1.05);
+        }
+
+        /* Details Box */
+        .details-box {
+            background: rgba(255, 255, 255, 0.15);
+            color: black;
+            padding: 25px;
+            height:620px;
+            overflow:hidden;
+            display:inline-block;
+            align-items:center;
+            justify-content:center;
+            padding-bottom:0px;
+            border-radius: 15px;
+            margin-top: 30px;
+            display: inline-block;
+            text-align: left;
+            width: 60%;
+            box-shadow: 0 4px 15px rgba(255, 255, 255, 0.3);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            animation: fadeIn 0.5s ease-in-out;
+        }
+        p {
+            font-size: 1.2rem;
+            margin: 8px 0;
+        }
+
+        h2 {
+            color: #ff4b4b;
+            font-size: 2.2rem;
+        }
+        .images{
+            padding-top:5px;
+            height:500px;
+            width:500px;
+            margin: 0 auto;
+        }
+        .images img {
+            display: block; /* Ensures the image behaves like a block element */
+            margin: 0 auto;
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            margin-top: 10px;
+        }
+
+        .error {
+            color: #ff4d4d;
+            font-size: 1.5rem;
+            margin-top: 20px;
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            form {
+                flex-direction: column;
+                width: 90%;
+            }
+
+            input[type="text"] {
+                width: 100%;
+            }
+
+            .details-box {
+                width: 90%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Animal Classifier</h1>
+    <form action="/predict" method="post">
+        <input type="text" name="animal_name" placeholder="Enter animal name" required>
+        <button type="submit">Search</button>
+    </form>
+
+    {% if animal_details %}
+        <div class="details-box">
+            <h2>Details for {{ animal_details["common_name"] }}</h2>
+            <p><strong>Scientific Name:</strong> {{ animal_details["Scientific name"] }}</p>
+            <p><strong>Classification:</strong> {{ animal_details["Classification"] }}</p>
+            <p><strong>Habitat:</strong> {{ animal_details["Habitat"] }}</p>
+            <p><strong>Diet:</strong> {{ animal_details["Diet"] }}</p>
+            <p><strong>Lifespan:</strong> {{ animal_details["Lifespan"] }}</p>
+            <p><strong>Description:</strong> {{ animal_details["Description"] }}</p>
+        {% if animal_details["Image_path"] and animal_details["Image_path"] != "Not Available" %}
+    <div class="images">
+        <img src="{{ animal_details['Image_path'] }}" alt="{{ animal_details['common_name'] }}" class="animal-image">
+    </div>
+{% else %}
+    <div class="images">
+        <p><strong>Image:</strong> No image available</p>
+    </div>
+{% endif %}
+
+        </div>
+    {% elif error %}
+        <h3 class="error">Error: {{ error }}</h3>
+    {% endif %}
+</body>
+</html>
+

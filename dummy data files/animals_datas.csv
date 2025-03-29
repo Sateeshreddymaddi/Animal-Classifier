@@ -1,0 +1,109 @@
+common_name,Scientific name,Classification,Habitat,Diet,Lifespan,Description
+Lion,Panthera leo,Mammal,Savannas,Carnivore,10-14 years,Large cat and King of the Jungle.
+Tiger,Panthera tigris,Mammal,Forests,Carnivore,8-12 years,Striped cat.
+Elephant,Loxodonta africana,Mammal,Savannas,Herbivore,60-70 years,Largest land animal.
+Giraffe,Giraffa camelopardalis,Mammal,Savannas,Herbivore,20-25 years,Tallest land animal.
+Kangaroo,Macropus giganteus,Mammal,Grasslands,Herbivore,6-10 years,Hopping marsupial.
+Blue Whale,Balaenoptera musculus,Mammal,Oceans,Krill,80-90 years,Largest animal.
+Great White Shark,Carcharodon carcharias,Fish,Oceans,Carnivore,Up to 70 years,Apex predator.
+Dolphin,Tursiops truncatus,Mammal,Oceans,Carnivore,20-60 years,Intelligent marine mammal.
+Sea Turtle,Chelonia mydas,Reptile,Oceans,Herbivore/Omnivore,Up to 100 years,Marine reptile.
+Octopus,Octopus vulgaris,Mollusk,Oceans,Carnivore,1-2 years,Intelligent invertebrate.
+Emperor Penguin,Aptenodytes forsteri,Bird,Antarctica,Fish,20 years,Largest penguin.
+Polar Bear,Ursus maritimus,Mammal,Arctic,Carnivore,15-18 years,Arctic predator.
+Orca,Orcinus orca,Mammal,Oceans,Carnivore,50-80 years,Apex marine predator.
+Humpback Whale,Megaptera novaeangliae,Mammal,Oceans,Krill,45-50 years,Known for breaching.
+Sea Otter,Enhydra lutris,Mammal,Pacific Ocean,Carnivore,10-15 years,Smallest marine mammal.
+Clownfish,Amphiprioninae,Fish,Coral reefs,Omnivore,3-5 years,Lives in anemones.
+Angelfish,Pterophyllum scalare,Fish,Amazon,Omnivore,5-10 years,Graceful fish.
+Starfish,Asteroidea,Echinoderm,Oceans,Carnivore,Up to 35 years,Five-armed invertebrate.
+Jellyfish,Scyphozoa,Cnidarian,Oceans,Carnivore,Variable,Stinging marine animal.
+Seahorse,Hippocampus,Fish,Shallow waters,Carnivore,2-5 years,Unique fish.
+Gorilla,Gorilla gorilla,Mammal,Forests,Herbivore,35-40 years,Large primate.
+Chimpanzee,Pan troglodytes,Mammal,Forests,Omnivore,40-50 years,Intelligent primate.
+Orangutan,Pongo,Mammal,Forests,Omnivore,30-40 years,Arboreal primate.
+Lemur,Lemuridae,Mammal,Madagascar,Omnivore,20-25 years,Primate.
+Sloth,Bradypus,Mammal,Rainforests,Herbivore,20-30 years,Slow-moving mammal.
+Giant Panda,Ailuropoda melanoleuca,Mammal,China,Herbivore,20-30 years,Endangered bear.
+Red Panda,Ailurus fulgens,Mammal,Asia,Omnivore,8-10 years,Arboreal mammal.
+Snow Leopard,Panthera uncia,Mammal,Mountains,Carnivore,10-12 years,Elusive big cat.
+Cheetah,Acinonyx jubatus,Mammal,Africa,Carnivore,10-12 years,Fastest land animal.
+Jaguar,Panthera onca,Mammal,Americas,Carnivore,12-15 years,Powerful big cat.
+Leopard,Panthera pardus,Mammal,Africa/Asia,Carnivore,12-17 years,Spotted big cat.
+Cougar,Puma concolor,Mammal,Americas,Carnivore,8-13 years,Also known as mountain lion.
+Lynx,Lynx,Mammal,Northern Hemisphere,Carnivore,10-15 years,Tufted ears.
+Caracal,Caracal caracal,Mammal,Africa/Asia,Carnivore,10-12 years,Tufted ears.
+Serval,Leptailurus serval,Mammal,Africa,Carnivore,10-12 years,Long legs.
+Ocelot,Leopardus pardalis,Mammal,Americas,Carnivore,10-13 years,Spotted cat.
+Margay,Leopardus wiedii,Mammal,Americas,Carnivore,10-13 years,Arboreal cat.
+Fishing Cat,Prionailurus viverrinus,Mammal,Asia,Carnivore,10-12 years,Lives near water.
+Sand Cat,Felis margarita,Mammal,Deserts,Carnivore,10-13 years,Adapted to desert.
+Black-footed Cat,Felis nigripes,Mammal,Africa,Carnivore,5-7 years,Smallest African wild cat.
+European Wildcat,Felis silvestris silvestris,Mammal,Europe,Carnivore,10-12 years,Wild cat.
+Domestic Cat,Felis catus,Mammal,Worldwide,Carnivore,12-15 years,Domesticated cat.
+Wolf,Canis lupus,Mammal,Worldwide,Carnivore,6-8 years,Canine predator.
+Dog,Canis familiaris,Mammal,Worldwide,Omnivore,10-13 years,Domesticated canine.
+Fox,Vulpes vulpes,Mammal,Worldwide,Omnivore,5-7 years,Canine.
+Jackal,Canis aureus,Mammal,Africa/Asia,Omnivore,6-9 years,Canine.
+Coyote,Canis latrans,Mammal,North America,Omnivore,10-14 years,Canine.
+African Wild Dog,Lycaon pictus,Mammal,Africa,Carnivore,10-12 years,Endangered canine.
+Dhole,Cuon alpinus,Mammal,Asia,Carnivore,8-10 years,Wild dog.
+Raccoon,Procyon lotor,Mammal,North America,Omnivore,5-7 years,Nocturnal mammal.
+Bear,Ursidae,Mammal,Worldwide,Omnivore,20-30 years,Large mammal.
+Brown Bear,Ursus arctos,Mammal,North America/Europe/Asia,Omnivore,20-30 years,Large bear.
+Grizzly Bear,Ursus arctos horribilis,Mammal,North America,Omnivore,20-30 years,Large bear.
+Black Bear,Ursus americanus,Mammal,North America,Omnivore,20-30 years,Bear.
+Polar Bear,Ursus maritimus,Mammal,Arctic,Carnivore,15-18 years,Arctic predator.
+Sun Bear,Helarctos malayanus,Mammal,Southeast Asia,Omnivore,20-25 years,Smallest bear.
+Asiatic Black Bear,Ursus thibetanus,Mammal,Asia,Omnivore,20-25 years,Bear.
+Sloth Bear,Melursus ursinus,Mammal,Asia,Omnivore,20-25 years,Bear.
+Spectacled Bear,Tremarctos ornatus,Mammal,South America,Omnivore,20-25 years,Bear.
+Giant Panda,Ailuropoda melanoleuca,Mammal,China,Herbivore,20-30 years,Endangered bear.
+Red Panda,Ailurus fulgens,Mammal,Asia,Omnivore,8-10 years,Arboreal mammal.
+White Rhinoceros,Ceratotherium simum,Mammal,Grasslands/Savannas,Herbivore,40-50 years,Large herbivore with two horns.
+Hippopotamus,Hippopotamus amphibius,Mammal,Rivers/Lakes,Herbivore,40-50 years,Semi-aquatic aggressive.
+Platypus,Ornithorhynchus anatinus,Mammal,Freshwater,Carnivore,10-15 years,Egg-laying mammal”.
+Komodo Dragon,Varanus komodoensis,Reptile,Indonesian Islands,Carnivore,Up to 30 years,Largest lizard.
+Bald Eagle,Haliaeetus leucocephalus,Bird,North America,Carnivore,20-30 years,National bird of the USA.
+Poison Dart Frog,Dendrobatidae,Amphibian,Rainforests,Carnivore,10-15 years,Brightly colored and toxic
+Moose,Alces alces,Mammal,Forests,Herbivore,15-25 years,Largest deer species.
+Okapi,Okapia johnstoni,Mammal,Rainforests,Herbivore,20-30 years,Relative of the giraffe.
+Tasmanian Devil,Sarcophilus harrisii,Mammal,Tasmania,Carnivore,5-8 years,Nocturnal mars.
+Andean Condor,Vultur gryphus,Bird,Mountains,Scavenger,50-70 years,Largest flying bird by wingspan .
+Bee Hummingbird,Mellisuga helenae,Bird,Cuba,Nectarivore,5-7 years,Smallest bird .
+Cassowary,Casuarius,Bird,Australia/New Guinea,Omnivore,40-50 years,Large flightless bird.
+Hoatzin,Opisthocomus hoazin,Bird,Rainforests,Herbivore,15-20 years,Smells like manure due to diet.
+Kakapo,Strigops habroptilus,Bird,New Zealand,Herbivore,60-90 years,Flightless nocturnal parrot.
+Lyrebird,Menura,Bird,Australia,Omnivore,15-20 years,Mimics sounds.
+Peacock,Pavo cristatus,Bird,Grasslands,Omnivore,15-20 years,National bird of india and Iridescent plumage.
+Secretary Bird,Sagittarius serpentarius,Bird,Savannah,Carnivore,10-15 years,Hunts snakes Shoebill.
+Stork,Balaeniceps rex,Bird,Wetlands,Carnivore,35-50 years,Large bird with a shoe-shaped bill.
+Snowy Owl,Bubo scandiacus,Bird,Arctic,Carnivore,10-15 years,White owl species.
+Toucan,Ramphastos,Bird,Tropical Forests,Frugivore,15-20 years,Colorful beak Harpy.
+Eagle,Harpia harpyja,Bird,Rainforests,Carnivore,25-35 years,Powerful raptor.
+Bald Eagle,Haliaeetus leucocephalus,Bird,North America,Carnivore,20-30 years,National bird of the USA King.
+Cobra,Ophiophagus hannah,Reptile,Jungles,Carnivore,20 years,Longest venomous snake.
+Chameleon,Chamaeleonidae,Reptile,Forests/Deserts,Insectivore,2-3 years,Color-changing reptile Komodo.
+Dragon,Varanus komodoensis,Reptile,Indonesian Islands,Carnivore,Up to 30 years,Largest lizard.
+Sea Turtle,Chelonia mydas,Reptile,Oceans,Herbivore/Omnivore,Up to 100 years,Marine reptile Manta.
+Ray,Mobula,Mollusk,Oceans,Planktivore,40-50 years,Largest ray species Blue-Ringed.
+Octopus,Hapalochlaena,Mollusk,Oceans,Carnivore,2-3 years,Highly venomous small octopus Mimic.
+Octopus,Thaumoctopus mimicus,Mollusk,Oceans,Carnivore,1-2 years,Can imitate other sea creatures.
+Nautilus,Nautilidae,Mollusk,Deep Ocean,Carnivore,15-20 years,Ancient shelled cephalopod.
+Octopus,Octopus vulgaris,Mollusk,Oceans,Carnivore,1-2 years,Intelligent invertebrate.
+Giant Squid,Architeuthis dux,Mollusk,Deep Ocean,Carnivore,Unknown,Largest invertebrate.
+Starfish,Asteroidea,Echinoderm,Oceans,Carnivore,Up to 35 years,Five-armed invertebrate.
+Jellyfish,Scyphozoa,Cnidarian,Oceans,Carnivore,——,Stinging marine animal Goliath.
+Beetle,Goliathus goliatus,Insect,Rainforests,Omnivore,3-6 months,Largest beetle species Atlas.
+Moth,Attacus atlas,Insect,Tropical Forests,Herbivore,1-2 weeks,One of the largest moths Orchid.
+Mantis,Hymenopus coronatus,Insect,Rainforests,Carnivore,6-12 months,Mimics flowers Giant.
+Weta,Deinacrida,Insect,New Zealand,Herbivore,1-2 years,Heavy insect cannot fly.
+Bullet Ant,Paraponera clavata,Insect,Rainforests,Omnivore,90 days,Painful sting Japanese Spider.
+Crab,Macrocheira kaempferi,Arachnid,Ocean Floor,Omnivore,50+ years,Largest leg span of any arthropod Mantis.
+Shrimp,Stomatopoda,Crustacean,Oceans,Carnivore,3-6 years,Powerful punch.
+Ammonite,Ammonoidea,Extinct,Various Marine,Carnivore,——,Extinct cephalopod with coiled shell.
+Dodo,Raphus cucullatus,Extinct,Mauritius,Omnivore,——,Flightless bird Tasmanian.
+Tiger,Thylacinus cynocephalus,Extinct,Tasmania,Carnivore,——,Marsupial wolf Woolly.
+Mammoth,Mammuthus primigenius,Extinct,Various,Herbivore,——,Large hairy elephant.
+Pterodactyl,Pterodactyloidea,Extinct,Various,Carnivore,——,Flying reptile.
+Trilobite,Trilobita,Extinct,Various Marine,Various,——,Extinct arthropod.
