@@ -1,0 +1,99 @@
+common_name,Scientific name,Classification,Habitat,Diet,Lifespan,Image_path,Description,Unnamed: 8
+Lion,Panthera leo,Mammal,Savannas,Carnivore,10-14 years,static/images/Lion.jpg,Large cat and King of the Jungle.,nan
+Tiger,Panthera tigris,Mammal,Forests,Carnivore,8-12 years,static/images/Tiger.jpg,Striped cat.,nan
+Elephant,Loxodonta africana,Mammal,Savannas,Herbivore,60-70 years,static/images/Elephant.jpg,Largest land animal.,nan
+Giraffe,Giraffa camelopardalis,Mammal,Savannas,Herbivore,20-25 years,static/images/Giraffe.jpg,Tallest land animal.,nan
+Kangaroo,Macropus giganteus,Mammal,Grasslands,Herbivore,6-10 years,./static/images/Kangaroo.jpg,Hopping marsupial.,nan
+Blue Whale,Balaenoptera musculus,Mammal,Oceans,Krill,80-90 years,./static/images/Blue Whale.jpg,Largest animal.,nan
+Great White Shark,Carcharodon carcharias,Fish,Oceans,Carnivore,Up to 70 years,./static/images/Great White Shark.jpg,Apex predator.,nan
+Dolphin,Tursiops truncatus,Mammal,Oceans,Carnivore,20-60 years,./static/images/Dolphin.jpg,Intelligent marine mammal.,nan
+Sea Turtle,Chelonia mydas,Reptile,Oceans,Herbivore/Omnivore,Up to 100 years,./static/images/Sea Turtle.jpg,Marine reptile.,nan
+Octopus,Octopus vulgaris,Mollusk,Oceans,Carnivore,1-2 years,./static/images/Octopus.jpg,Intelligent invertebrate.,nan
+Emperor Penguin,Aptenodytes forsteri,Bird,Antarctica,Fish,20 years,./static/images/Emperor Penguin.jpg,Largest penguin.,nan
+Polar Bear,Ursus maritimus,Mammal,Arctic,Carnivore,15-18 years,./static/images/Polar Bear.jpg,Arctic predator.,nan
+Orca,Orcinus orca,Mammal,Oceans,Carnivore,50-80 years,./static/images/Orca.jpg,Apex marine predator.,nan
+Humpback Whale,Megaptera novaeangliae,Mammal,Oceans,Krill,45-50 years,./static/images/Humpback Whale.jpg,Known for breaching.,nan
+Sea Otter,Enhydra lutris,Mammal,Pacific Ocean,Carnivore,10-15 years,./static/images/Sea Otter.jpg,Smallest marine mammal.,nan
+Clownfish,Amphiprioninae,Fish,Coral reefs,Omnivore,3-5 years,./static/images/Clownfish.jpg,Lives in anemones.,nan
+Angelfish,Pterophyllum scalare,Fish,Amazon,Omnivore,5-10 years,./static/images/Angelfish.jpg,Graceful fish.,nan
+Starfish,Asteroidea,Echinoderm,Oceans,Carnivore,Up to 35 years,./static/images/Starfish.jpg,Five-armed invertebrate.,nan
+Jellyfish,Scyphozoa,Cnidarian,Oceans,Carnivore,Variable,./static/images/Jellyfish.jpg,Stinging marine animal.,nan
+Seahorse,Hippocampus,Fish,Shallow waters,Carnivore,2-5 years,./static/images/Seahorse.jpg,Unique fish.,nan
+Gorilla,Gorilla gorilla,Mammal,Forests,Herbivore,35-40 years,./static/images/Gorilla.jpg,Large primate.,nan
+Chimpanzee,Pan troglodytes,Mammal,Forests,Omnivore,40-50 years,./static/images/Chimpanzee.jpg,Intelligent primate.,nan
+Orangutan,Pongo,Mammal,Forests,Omnivore,30-40 years,./static/images/Orangutan.jpg,Arboreal primate.,nan
+Lemur,Lemuridae,Mammal,Madagascar,Omnivore,20-25 years,./static/images/Lemur.jpg,Primate.,nan
+Sloth,Bradypus,Mammal,Rainforests,Herbivore,20-30 years,./static/images/Sloth.jpg,Slow-moving mammal.,nan
+Giant Panda,Ailuropoda melanoleuca,Mammal,China,Herbivore,20-30 years,./static/images/Giant Panda.jpg,Endangered bear.,nan
+Red Panda,Ailurus fulgens,Mammal,Asia,Omnivore,8-10 years,./static/images/Red Panda.jpg,Arboreal mammal.,nan
+Snow Leopard,Panthera uncia,Mammal,Mountains,Carnivore,10-12 years,./static/images/Snow Leopard.jpg,Elusive big cat.,nan
+Cheetah,Acinonyx jubatus,Mammal,Africa,Carnivore,10-12 years,./static/images/Cheetah.jpg,Fastest land animal.,nan
+Jaguar,Panthera onca,Mammal,Americas,Carnivore,12-15 years,./static/images/Jaguar.jpg,Powerful big cat.,nan
+Leopard,Panthera pardus,Mammal,Africa/Asia,Carnivore,12-17 years,./static/images/Leopard.jpg,Spotted big cat.,nan
+Cougar,Puma concolor,Mammal,Americas,Carnivore,8-13 years,./static/images/Cougar.jpg,Also known as mountain lion.,nan
+Lynx,Lynx,Mammal,Northern Hemisphere,Carnivore,10-15 years,./static/images/Lynx.jpg,Tufted ears.,nan
+Caracal,Caracal caracal,Mammal,Africa/Asia,Carnivore,10-12 years,./static/images/Caracal.jpg,Tufted ears.,nan
+Serval,Leptailurus serval,Mammal,Africa,Carnivore,10-12 years,./static/images/Serval.jpg,Long legs.,nan
+Ocelot,Leopardus pardalis,Mammal,Americas,Carnivore,10-13 years,./static/images/Ocelot.jpg,Spotted cat.,nan
+Margay,Leopardus wiedii,Mammal,Americas,Carnivore,10-13 years,./static/images/Margay.jpg,Arboreal cat.,nan
+Fishing Cat,Prionailurus viverrinus,Mammal,Asia,Carnivore,10-12 years,./static/images/Fishing Cat.jpg,Lives near water.,nan
+Sand Cat,Felis margarita,Mammal,Deserts,Carnivore,10-13 years,./static/images/Sand Cat.jpg,Adapted to desert.,nan
+Black-footed Cat,Felis nigripes,Mammal,Africa,Carnivore,5-7 years,./static/images/Black-footed Cat.jpg,Smallest African wild cat.,nan
+European Wildcat,Felis silvestris silvestris,Mammal,Europe,Carnivore,10-12 years,./static/images/European Wildcat.jpg,Wild cat.,nan
+Domestic Cat,Felis catus,Mammal,Worldwide,Carnivore,12-15 years,./static/images/Domestic Cat.jpg,Domesticated cat.,nan
+Wolf,Canis lupus,Mammal,Worldwide,Carnivore,6-8 years,./static/images/Wolf.jpg,Canine predator.,nan
+Dog,Canis familiaris,Mammal,Worldwide,Omnivore,10-13 years,./static/images/Dog.jpg,Domesticated canine.,nan
+Fox,Vulpes vulpes,Mammal,Worldwide,Omnivore,5-7 years,./static/images/Fox.jpg,Canine.,nan
+Jackal,Canis aureus,Mammal,Africa/Asia,Omnivore,6-9 years,./static/images/Jackal.jpg,Canine.,nan
+Coyote,Canis latrans,Mammal,North America,Omnivore,10-14 years,./static/images/Coyote.jpg,Canine.,nan
+African Wild Dog,Lycaon pictus,Mammal,Africa,Carnivore,10-12 years,./static/images/African Wild Dog.jpg,Endangered canine.,nan
+Dhole,Cuon alpinus,Mammal,Asia,Carnivore,8-10 years,./static/images/Dhole.jpg,Wild dog.,nan
+Raccoon,Procyon lotor,Mammal,North America,Omnivore,5-7 years,./static/images/Raccoon.jpg,Nocturnal mammal.,nan
+Bear,Ursidae,Mammal,Worldwide,Omnivore,20-30 years,./static/images/Bear.jpg,Large mammal.,nan
+Brown Bear,Ursus arctos,Mammal,North America/Europe/Asia,Omnivore,20-30 years,./static/images/Brown Bear.jpg,Large bear.,nan
+Grizzly Bear,Ursus arctos horribilis,Mammal,North America,Omnivore,20-30 years,./static/images/Grizzly Bear.jpg,Large bear.,nan
+Black Bear,Ursus americanus,Mammal,North America,Omnivore,20-30 years,./static/images/Black Bear.jpg,Bear.,nan
+Sun Bear,Helarctos malayanus,Mammal,Southeast Asia,Omnivore,20-25 years,./static/images/Sun Bear.jpg,Smallest bear.,nan
+Asiatic Black Bear,Ursus thibetanus,Mammal,Asia,Omnivore,20-25 years,./static/images/Asiatic Black Bear.jpg,Bear.,nan
+Sloth Bear,Melursus ursinus,Mammal,Asia,Omnivore,20-25 years,./static/images/Sloth Bear.jpg,Bear.,nan
+Spectacled Bear,Tremarctos ornatus,Mammal,South America,Omnivore,20-25 years,./static/images/Spectacled Bear.jpg,Bear.,nan
+White Rhinoceros,Ceratotherium simum,Mammal,Grasslands/Savannas,Herbivore,40-50 years,./static/images/White Rhinoceros.jpg,Large herbivore with two horns.,nan
+Hippopotamus,Hippopotamus amphibius,Mammal,Rivers/Lakes,Herbivore,40-50 years,./static/images/Hippopotamus.jpg,Semi-aquatic aggressive.,nan
+Platypus,Ornithorhynchus anatinus,Mammal,Freshwater,Carnivore,10-15 years,./static/images/Platypus.jpg,Egg-laying mammal”.,nan
+Komodo Dragon,Varanus komodoensis,Reptile,Indonesian Islands,Carnivore,Up to 30 years,./static/images/Komodo Dragon.jpg,Largest lizard.,nan
+Bald Eagle,Haliaeetus leucocephalus,Bird,North America,Carnivore,20-30 years,./static/images/Bald Eagle.jpg,National bird of the USA.,nan
+Poison Dart Frog,Dendrobatidae,Amphibian,Rainforests,Carnivore,10-15 years,./static/images/Poison Dart Frog.jpg,Brightly colored and toxic,nan
+Moose,Alces alces,Mammal,Forests,Herbivore,15-25 years,./static/images/Moose.jpg,Largest deer species.,nan
+Okapi,Okapia johnstoni,Mammal,Rainforests,Herbivore,20-30 years,./static/images/Okapi.jpg,Relative of the giraffe.,nan
+Tasmanian Devil,Sarcophilus harrisii,Mammal,Tasmania,Carnivore,5-8 years,./static/images/Tasmanian Devil.jpg,Nocturnal mars.,nan
+Andean Condor,Vultur gryphus,Bird,Mountains,Scavenger,50-70 years,./static/images/Andean Condor.jpg,Largest flying bird by wingspan .,nan
+Bee Hummingbird,Mellisuga helenae,Bird,Cuba,Nectarivore,5-7 years,./static/images/Bee Hummingbird.jpg,Smallest bird .,nan
+Cassowary,Casuarius,Bird,Australia/New Guinea,Omnivore,40-50 years,./static/images/Cassowary.jpg,Large flightless bird.,nan
+Hoatzin,Opisthocomus hoazin,Bird,Rainforests,Herbivore,15-20 years,./static/images/Hoatzin.jpg,Smells like manure due to diet.,nan
+Kakapo,Strigops habroptilus,Bird,New Zealand,Herbivore,60-90 years,./static/images/Kakapo.jpg,Flightless nocturnal parrot.,nan
+Lyrebird,Menura,Bird,Australia,Omnivore,15-20 years,./static/images/Lyrebird.jpg,Mimics sounds.,nan
+Peacock,Pavo cristatus,Bird,Grasslands,Omnivore,15-20 years,./static/images/Peacock.jpg,Iridescent plumage.,nan
+Secretary Bird,Sagittarius serpentarius,Bird,Savannah,Carnivore,10-15 years,./static/images/Secretary Bird.jpg,Hunts snakes Shoebill.,nan
+Stork,Balaeniceps rex,Bird,Wetlands,Carnivore,35-50 years,./static/images/Stork.jpg,Large bird with a shoe-shaped bill.,nan
+Snowy Owl,Bubo scandiacus,Bird,Arctic,Carnivore,10-15 years,./static/images/Snowy Owl.jpg,White owl species.,nan
+Toucan,Ramphastos,Bird,Tropical Forests,Frugivore,15-20 years,./static/images/Toucan.jpg,Colorful beak Harpy.,nan
+Eagle,Harpia harpyja,Bird,Rainforests,Carnivore,25-35 years,./static/images/Eagle.jpg,Powerful raptor.,nan
+Cobra,Ophiophagus hannah,Reptile,Jungles,Carnivore,20 years,./static/images/Cobra.jpg,Longest venomous snake.,nan
+Chameleon,Chamaeleonidae,Reptile,Forests/Deserts,Insectivore,2-3 years,./static/images/Chameleon.jpg,Color-changing reptile Komodo.,nan
+Dragon,Varanus komodoensis,Reptile,Indonesian Islands,Carnivore,Up to 30 years,./static/images/Dragon.jpg,Largest lizard.,nan
+Ray,Mobula,Mollusk,Oceans,Planktivore,40-50 years,./static/images/Ray.jpg,Largest ray species Blue-Ringed.,nan
+Octopus,Thaumoctopus mimicus,Mollusk,Oceans,Carnivore,1-2 years,./static/images/Octopus.jpg,Can imitate other sea creatures.,nan
+Nautilus,Nautilidae,Mollusk,Deep Ocean,Carnivore,15-20 years,./static/images/Nautilus.jpg,Ancient shelled cephalopod.,nan
+Giant Squid,Architeuthis dux,Mollusk,Deep Ocean,Carnivore,Unknown,./static/images/Giant Squid.jpg,Largest invertebrate.,nan
+Beetle,Goliathus goliatus,Insect,Rainforests,Omnivore,3-6 months,./static/images/Beetle.jpg,Largest beetle species Atlas.,nan
+Moth,Attacus atlas,Insect,Tropical Forests,Herbivore,1-2 weeks,./static/images/Moth.jpg,One of the largest moths Orchid.,nan
+Mantis,Hymenopus coronatus,Insect,Rainforests,Carnivore,6-12 months,./static/images/Mantis.jpg,Mimics flowers Giant.,nan
+Weta,Deinacrida,Insect,New Zealand,Herbivore,1-2 years,./static/images/Weta.jpg,Heavy insect cannot fly.,nan
+Bullet Ant,Paraponera clavata,Insect,Rainforests,Omnivore,90 days,./static/images/Bullet Ant.jpg,Painful sting Japanese Spider.,nan
+Crab,Macrocheira kaempferi,Arachnid,Ocean Floor,Omnivore,50+ years,./static/images/Crab.jpg,Largest leg span of any arthropod Mantis.,nan
+Shrimp,Stomatopoda,Crustacean,Oceans,Carnivore,3-6 years,./static/images/Shrimp.jpg,Powerful punch.,nan
+Ammonite,Ammonoidea,Extinct,Various Marine,Carnivore,-,./static/images/Ammonite.jpg,Extinct cephalopod with coiled shell.,nan
+Dodo,Raphus cucullatus,Extinct,Mauritius,Omnivore,-,./static/images/Dodo.jpg,Flightless bird Tasmanian.,nan
+Mammoth,Mammuthus primigenius,Extinct,Various,Herbivore,-,./static/images/Mammoth.jpg,Large hairy elephant.,nan
+Pterodactyl,Pterodactyloidea,Extinct,Various,Carnivore,-,./static/images/Pterodactyl.jpg,Flying reptile.,nan
+Trilobite,Trilobita,Extinct,Various Marine,Various,-,./static/images/Trilobite.jpg,Extinct arthropod.,nan
